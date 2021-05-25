@@ -15,20 +15,28 @@ for building confidence in the usefulness of the new knowledge with respect to a
 
 *What does this project provide?*
 
-## Folder organisation
+This open science project has been born and developed in order to make a move for the engineering research community progress.
+
+## Data organisation
+
+This open science environement is organised into several repositories.
+- [Welcome - The ](https://github.com/GIS-S-mart/Welcome)
+- 
+
 
 ## Joining the community 
 
-If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on Github Discussions:
-- [Open science Benchmarking in Engineering Research] (https://github.com/GIS-S-mart/Welcome/discussions)
+If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on **Discussions**:
+- [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/discussions)
 - [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true)
-- Discussions on Benchmark 2
-.
+- ...
 
-Please also take a look at the list of Open Issues:
-- [Open science Benchmarking in Engineering Research] (https://github.com/GIS-S-mart/Welcome/issues)
+
+Please also take a look at the list of **Open Issues**:
+- [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
 - [Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Welcome/issues).
--  
+- ...
+
 If you think there is an error, please create a new issue.
 
 ## Required Background
@@ -46,9 +54,8 @@ _*Willing to be active with us? Follow this contribution process!*_
 
 To contribute to the ..., you can:
 
-- Post on issues page and briefly outline the changes you plan to make
+- Post on issues page and briefly outline the changes you plan to make (create new benchmark repository, add dataset, suggest metrics, etc.)
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
-- ...
 
 ## Project team
 
