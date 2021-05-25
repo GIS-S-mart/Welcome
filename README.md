@@ -14,7 +14,17 @@ for building confidence in the usefulness of the new knowledge with respect to a
 
 ## Joining the community 
 
-## Getting help
+If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on Github Discussions. Please also take a look at the list of open issues. If you think there is an error, please create a new issue.
+
+## Required Background
+
+_*What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*_
+
+To reuse this project, the maker should know how to:
+
+Clone a GIT repository
+
+Edit a Markdown file
 
 ## Project team
 
