@@ -19,7 +19,7 @@ for building confidence in the usefulness of the new knowledge with respect to a
 
 ## Joining the community 
 
-If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on Github Discussions. Please also take a look at the list of open issues. If you think there is an error, please create a new issue.
+If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on Github Discussions. Please also take a look at the list of [open issues](https://github.com/GIS-S-mart/Welcome/issues). If you think there is an error, please create a new issue.
 
 ## Required Background
 
