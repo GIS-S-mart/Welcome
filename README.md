@@ -4,13 +4,18 @@ This open science wiki site is a collaborative space that gathers engineering me
 
 ## Motivations
 
+*Why did we start this open science environement for benchmarking engineering research?*
+
+
 for building confidence in the usefulness of the new knowledge with respect to a purpose
 
  regrouping empirical data bases, qualitative and quantitative standardized measures for comparing studies, and agreed upon theoretical constructs such as causal graphs 
 
-## Folder organisation
+# Goals
 
-- 
+*What does this project provide?*
+
+## Folder organisation
 
 ## Joining the community 
 
@@ -22,19 +27,46 @@ _*What are the specific knowledge prerequisite a maker should have in order to c
 
 To reuse this project, the maker should know how to:
 
-Clone a GIT repository
+- [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+- [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 
-Edit a Markdown file
+## Contribution Process
+
+_*Willing to be active with us? Follow this contribution process!*_
+
+To contribute to the ..., you can:
+
+- Post on issues page and briefly outline the changes you plan to make
+- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+- ...
 
 ## Project team
 
-* Romain PINQUIE - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
-* 
+_*Want to contact the Core Team? Send an e-mail to all of them!*_
+
+* Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
+* Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr
+* Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu
+* Lou Grimal - Université de Technologie de Troyes, ICD - lou.grimal@utt.fr
 
 ## Other participants
 
+_*Want to be an active member of our community? Add your contact details to the list!*_
+
+* Nabil Anwer - ENS-Paris-Saclay, LURPA - nabil.anwer@lurpa.ens-cachan.fr
+* Matthieu Bricogne - Université de Technologie de Compiègne, Roberval - matthieu.bricogne@utc.fr
+* Alexis Lalevée - Université de Technologie de Troyes, ICD - alexis.lalevee@utt.fr
+* Florent Laroche - Ecole Centrale de Nantes, IS2N - florent.Laroche@ec-nantes.fr
+* Olivia Penas - Supméca, QUARTZ - olivia.penas@supmeca.fr
+* Régis Plateaux - Supméca, QUARTZ - regis.plateaux@supmeca.fr
+* Alix Thecle - Université Bordeaux 1, IMS - thecle.alix@ims-bordeaux.fr
+* Nadège Troussier - Université de Technologie de Troyes, ICD - nadege.troussier@utt.fr
+* Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
 
 ## Related projects
+
+*What are the existing sources that have inspired this project?*
+
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
 * Data science challenges:
@@ -47,6 +79,9 @@ Edit a Markdown file
   - [3D shape retrieval challenge](https://www.shrec.net/)
 
 ## Related papers
+
+*Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
+- Webinar S.mart (2021) [https://www.youtube.com/watch?v=BNguokjm_wE]
 - Hein, A. M. and Lamé, G. (2020) [Evaluating engineering design methods: taking inspiration from software engineering and the health sciences](https://hal.archives-ouvertes.fr/hal-02866692)
 - Gericke, K. et al. (2020) [Supporting designers: moving from method menagerie to method ecosystem](https://www.cambridge.org/core/journals/design-science/article/supporting-designers-moving-from-method-menagerie-to-method-ecosystem/63DA0F12D7C5AB2D94DDFBE40DD7E8ED)
 - Isaksson, O. et al. (2020) [You need to focus to validate](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/you-need-to-focus-to-validate/B8301671F8388D4EFED8D4EFE15500D4)
@@ -56,19 +91,15 @@ Edit a Markdown file
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
 - Seepersad, C. C. and al. (2006) [The validation square: How does one verify and validate a design method?](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
 
-## Benchmarks
+## License
 
-What objects do you want to benchmark?
+CC-BY-SA 4.0
 
-### 1. Early model-based systems validation and verification
+## Sponsors and Partners
 
-- **Objects to validate**
+- [S.mart - Systems.Manufacturing.Academics.Resources.Technologies](https://s-mart.fr/)
 
-- **Data sets**
 
-- **Objects to validate**
-
-- **Meta-analyses**
 
 
 
