@@ -20,19 +20,19 @@ This open science project has been born and developed in order to make a move fo
 ## Data organisation
 
 This open science environement is organised into several repositories.
-- [Welcome - The ](https://github.com/GIS-S-mart/Welcome)
+- [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
 - [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
 
 ## Joining the community 
 
 If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on **Discussions**:
-- [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/discussions)
-- [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true)
+- [**Discussions on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/discussions)
+- [**Discussions on...** Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true)
 - ...
 
 Please also take a look at the list of **Open Issues**:
-- [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
-- [Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Welcome/issues).
+- [**Open Issues on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
+- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Welcome/issues).
 - ...
 
 If you think there is an error, please create a new issue.
