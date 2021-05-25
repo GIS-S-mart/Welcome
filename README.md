@@ -86,7 +86,11 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
 
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
-* Data science challenges:
+* Computer science academic challenges:
+ - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
+ - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
+ - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
+* Data science public challenges:
   - [Kaggle](https://www.kaggle.com/competitions)
   - [Challenge Data ENS](https://www.google.com/search?q=challenge+data+ens&oq=challenge+data+ens&aqs=chrome..69i57j69i65.2303j0j1&sourceid=chrome&ie=UTF-8) 
   - [Hackatons](https://www.hackateam.com/fr/challenges)
@@ -94,6 +98,9 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
   - [Princeton shape retrieval and analysis group](https://gfx.cs.princeton.edu/proj/shape/)
   - [Shape retrieval contest for CAD models](https://engineering.purdue.edu/PRECISE/shrec08)
   - [3D shape retrieval challenge](https://www.shrec.net/)
+* Model exchange:
+ - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
+ - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
 
 ## Related papers
 
@@ -116,7 +123,7 @@ By being active in this open science environement, you agree to the terms specif
 
 ## License
 
-CC-BY-SA 4.0
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 
 ## Sponsors and Partners
 
