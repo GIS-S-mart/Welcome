@@ -42,7 +42,7 @@ To contribute to the ..., you can:
 
 ## Project team
 
-_*Want to contact the Core Team? Send an e-mail to all of them!*_
+_*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
 * Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr
@@ -51,7 +51,7 @@ _*Want to contact the Core Team? Send an e-mail to all of them!*_
 
 ## Other participants
 
-_*Want to be an active member of our community? Add your contact details to the list!*_
+_*Now, this open-science repository is run by volunteers from the community. Want to be an active member of our community? Add your contact details to the list!*_
 
 * Nabil Anwer - ENS-Paris-Saclay, LURPA - nabil.anwer@lurpa.ens-cachan.fr
 * Matthieu Bricogne - Université de Technologie de Compiègne, Roberval - matthieu.bricogne@utc.fr
@@ -90,6 +90,12 @@ _*Want to be an active member of our community? Add your contact details to the 
 - Blessing, L. and Chakrabarti, A. (2009) [DRM, a Design Research Methodology](https://www.springer.com/gp/book/9781848825864)
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
 - Seepersad, C. C. and al. (2006) [The validation square: How does one verify and validate a design method?](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
+
+## Disclaimer
+
+Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement by our community or S.mart.
+
+By being active in this open science environement, you agree to the terms specified in the attached DISCLAIMER.txt file.
 
 ## License
 
