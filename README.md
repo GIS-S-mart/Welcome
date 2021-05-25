@@ -21,8 +21,7 @@ This open science project has been born and developed in order to make a move fo
 
 This open science environement is organised into several repositories.
 - [Welcome - The ](https://github.com/GIS-S-mart/Welcome)
-- 
-
+- [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
 
 ## Joining the community 
 
@@ -30,7 +29,6 @@ If you have any questions or run into problems during your benchmarking, please 
 - [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/discussions)
 - [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true)
 - ...
-
 
 Please also take a look at the list of **Open Issues**:
 - [Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
@@ -87,9 +85,9 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
 * Computer science academic challenges:
- - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
- - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
- - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
+  - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
+  - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
+  - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
 * Data science public challenges:
   - [Kaggle](https://www.kaggle.com/competitions)
   - [Challenge Data ENS](https://www.google.com/search?q=challenge+data+ens&oq=challenge+data+ens&aqs=chrome..69i57j69i65.2303j0j1&sourceid=chrome&ie=UTF-8) 
@@ -99,8 +97,8 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
   - [Shape retrieval contest for CAD models](https://engineering.purdue.edu/PRECISE/shrec08)
   - [3D shape retrieval challenge](https://www.shrec.net/)
 * Model exchange:
- - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
- - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
+  - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
+  - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
 
 ## Related papers
 
