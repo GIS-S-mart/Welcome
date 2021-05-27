@@ -82,6 +82,15 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
 
 *What are the existing sources that have inspired this project?*
 
+* Open science:
+  - [DATACC](https://www.datacc.org/)
+  - [How to describe data before publication](https://www.datacc.org/vos-besoins/documenter-ses-donnees/metadonnees/)
+  - [Déposer ses données en ligne : où et comment ?](https://www.datacc.org/vos-besoins/valoriser-ses-donnees/deposer-ses-donnees-en-ligne-ou-et-comment/)
+  - [4TU.ResearchData](https://data.4tu.nl/info/en/)
+  - [B2SHARE](https://eudat.eu/catalogue/B2SHARE)
+  - [B2DROP](https://eudat.eu/catalogue/B2DROP)
+  - [OSF](https://osf.io/)
+  - [Harvard Dataverse](https://dataverse.harvard.edu/)
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
 * Computer science academic challenges:
