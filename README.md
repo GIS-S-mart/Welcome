@@ -39,7 +39,7 @@ This code of conduct outlines expectations for paticipation in this Open Source 
 - Gracefully accepting constructive criticism and being exceedingly kind even in moments of disagreement while working towards consensus
 - Educating and illuminating others with something you know more about
 - Contacting the original contributors before any external communication
-- Preventing any commercial use of the open source content (e.g. industrial contract, public foundings, etc.) without agreeing with the original authors and contributors
+- Preventing any public or private business opportunities of the open source content without agreeing with the original authors and contributors of the sources
 
 **People violating this code of conduct may be banned from the community**
 
