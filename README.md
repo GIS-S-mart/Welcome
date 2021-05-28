@@ -17,12 +17,6 @@ for building confidence in the usefulness of the new knowledge with respect to a
 
 This open science project has been born and developed in order to make a move for the engineering research community progress.
 
-## Data organisation
-
-This open science environement is organised into several repositories.
-- [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
-- [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
-
 ## Joining the community 
 
 If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on **Discussions**:
@@ -37,6 +31,18 @@ Please also take a look at the list of **Open Issues**:
 
 If you think there is an error, please create a new issue.
 
+## Code of Conduct
+
+This code of conduct outlines expectations for paticipation in this Open Source Benchmarking Environment for Research Engineering. By joining our community, you pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community by:
+- Being radically inclusive to existing members and newcomers looking to learn or participate
+- Being totally respectful of each others abilities, interests, viewpoints, experiences and personal differences
+- Gracefully accepting constructive criticism and being exceedingly kind even in moments of disagreement while working towards consensus
+- Educating and illuminating others with something you know more about
+- Contacting the original contributors before any external communication
+- Preventing any commercial use of the open source content (e.g. industrial contract, public foundings, etc.) without agreeing with the original authors and contributors
+
+**People violating this code of conduct may be banned from the community**
+
 ## Required Background
 
 _*What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*_
@@ -45,6 +51,14 @@ To reuse this project, the maker should know how to:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
+
+## Data organisation
+
+This open science environement is organised into several repositories.
+- [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
+- [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
+
+
 
 ## Contribution Process
 
