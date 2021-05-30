@@ -4,12 +4,17 @@ This open science wiki site is a collaborative space that gathers engineering me
 
 ## Motivations
 
-*Why did we start this open science environement for benchmarking engineering research?*
+*Why did we start this open science environment for benchmarking engineering research?*
 
-
-for building confidence in the usefulness of the new knowledge with respect to a purpose
-
- regrouping empirical data bases, qualitative and quantitative standardized measures for comparing studies, and agreed upon theoretical constructs such as causal graphs 
+During the last decades, numerous researchers in engineering design have reached a general consensus:
+ - "without action to increase scientific, theoretical, and methodological rigour there is a real possibility of the field being superseded and becoming obsolete through lack of impact." [Cash, 2018]
+  - "There is this concern that design research does not live up to the standards of science: it is creating in a sense too many theories and models, which jeopardises the coherence of the discipline and which indicates that design research does not yet have the means to test and refute design theories and models." [Vermaas, 2014]
+  - "“There is in design research a general concern about the quality of the testing of design theories and models. In work reflecting on the results that design research has produced, it is complained that generally accepted and effective research methods for testing design theories and models are lacking in design research, and that the discipline is fragmented in separate research strands” (Vermaas, 2014)
+  - “37% of the articles reviewed did not have any validation. There needs to be more validation in the field of research in engineering design.” [Barth, A. et al. 2011]
+  - “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field” [Blessing
+and Chakrabarti, 2009]
+  - “We often observe that PhD students present their work describing what they are doing or planning to do, but fail to state the research questions and hypotheses behind their work. When research questions are formulated, they are often very vague, too encompassing to be answered within one PhD project.” [Blessing & Chakrabarti ,2009]
+  - "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical construcs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]
 
 # Goals
 
@@ -132,6 +137,7 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
 - Isaksson, O. et al. (2020) [You need to focus to validate](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/you-need-to-focus-to-validate/B8301671F8388D4EFED8D4EFE15500D4)
 - Vermaas, P. E. (2014) [Design theories, models and their testing: On the scientific status of design research](https://link.springer.com/chapter/10.1007/978-1-4471-6338-1_2)
 - Barth, A., Caillaud, E., and Rose, B. (2011) [How to validate research in engineering design?](https://www.designsociety.org/publication/30456/HOW+TO+VALIDATE+RESEARCH+IN+ENGINEERING+DESIGN%3F)
+- Cash, P. (2018) [Developing theory-driven design research](https://www.sciencedirect.com/science/article/abs/pii/S0142694X18300140)
 - Blessing, L. and Chakrabarti, A. (2009) [DRM, a Design Research Methodology](https://www.springer.com/gp/book/9781848825864)
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
 - Seepersad, C. C. and al. (2006) [The validation square: How does one verify and validate a design method?](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)
