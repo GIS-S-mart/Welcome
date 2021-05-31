@@ -66,7 +66,7 @@ To reuse this project, the maker should know how to:
 
 This open science environement is organised into several repositories.
 - [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
-- [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
+- [Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
 
 ## Contribution Process
 
