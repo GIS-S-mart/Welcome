@@ -69,16 +69,17 @@ This open science environement is organised into several repositories.
 - [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
 - [Discussions on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
 
-
-
 ## Contribution Process
 
 _*Willing to be active with us? Follow this contribution process!*_
 
-To contribute to the ..., you can:
+To contribute to the open science benchmarking environment for engineering research, you can:
 
-- Post on issues page and briefly outline the changes you plan to make (create new benchmark repository, add dataset, suggest metrics, etc.)
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
+- If you want to create a new benchmark, post on issues page and briefly outline the changes you plan to make
+- If you want to share a new dataset for testing, and post on issues page of the right repository and briefly outline the changes you plan to make
+- If you want to submit a new solution to an existing benchmark problem, submit your sources to the right repository
+- If you want to add a new measure of performance to an existing benchmark problem,post on issues page and briefly outline the changes you plan to make
 
 ## Project team
 
