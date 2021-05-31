@@ -14,14 +14,20 @@ During the last decades, our community of researchers in engineering design has 
   <blockquote> “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field” [Blessing and Chakrabarti, 2009]</blockquote>
   <blockquote> "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical construcs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]</blockquote>
 
- For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally. 
-
 # Goals
 
 *What does this project provide?*
 
 This open science project has been born and developed in order to make a move for the engineering research community progress.
 
+## News
+
+*What's new?*
+
+- 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes]()
+- 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay]() [Slides]() [Notes]()
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lOfryN8=/?moveToViewport=-605,-501,4058,1989" frameBorder="0" scrolling="no" allowFullScreen></iframe> 
 ## Joining the community 
 
 If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on **Discussions**:
