@@ -8,10 +8,10 @@ This open science wiki site is a collaborative space that gathers engineering me
 
 During the last decades, our community of researchers in engineering design has reached a general consensus:
   <blockquote> "without action to increase scientific, theoretical, and methodological rigour there is a real possibility of the field being superseded and becoming obsolete through lack of impact." [Cash, 2018]</blockquote>
-  <blockquote> "There is this concern that design research does not live up to the standards of science: it is creating in a sense too many theories and models, which jeopardises the coherence of the discipline and which indicates that design research does not yet have the means to test and refute design theories and models." </blockquote>
-  <blockquote> "There is in design research a general concern about the quality of the testing of design theories and models. In work reflecting on the results that design research has produced, it is complained that generally accepted and effective research methods for testing design theories and models are lacking in design research, and that the discipline is fragmented in separate research strands” (Vermaas, 2014)</blockquote>
+  <blockquote> "There is this concern that design research does not live up to the standards of science: it is creating in a sense too many theories and models, which jeopardises the coherence of the discipline and which indicates that design research does not yet have the means to test and refute design theories and models." [Vermaas, 2014] </blockquote>
+  <blockquote> "There is in design research a general concern about the quality of the testing of design theories and models. In work reflecting on the results that design research has produced, it is complained that generally accepted and effective research methods for testing design theories and models are lacking in design research, and that the discipline is fragmented in separate research strands.” [Vermaas, 2014]</blockquote>
   <blockquote> “37% of the articles reviewed did not have any validation. There needs to be more validation in the field of research in engineering design.” [Barth, A. et al. 2011]</blockquote>
-  <blockquote> “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field” [Blessing and Chakrabarti, 2009]</blockquote>
+  <blockquote> “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field.” [Blessing and Chakrabarti, 2009]</blockquote>
   <blockquote> "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical construcs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]</blockquote>
 
 # Goals
@@ -36,7 +36,7 @@ If you have any questions or run into problems during your benchmarking, please 
 
 Please also take a look at the list of **Open Issues**:
 - [**Open Issues on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
-- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Welcome/issues).
+- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues).
 - ...
 
 If you think there is an error, please create a new issue.
