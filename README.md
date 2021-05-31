@@ -6,15 +6,15 @@ This open science wiki site is a collaborative space that gathers engineering me
 
 *Why did we start this open science environment for benchmarking engineering research?*
 
-During the last decades, numerous researchers in engineering design have reached a general consensus:
- - "without action to increase scientific, theoretical, and methodological rigour there is a real possibility of the field being superseded and becoming obsolete through lack of impact." [Cash, 2018]
-  - "There is this concern that design research does not live up to the standards of science: it is creating in a sense too many theories and models, which jeopardises the coherence of the discipline and which indicates that design research does not yet have the means to test and refute design theories and models." [Vermaas, 2014]
-  - "“There is in design research a general concern about the quality of the testing of design theories and models. In work reflecting on the results that design research has produced, it is complained that generally accepted and effective research methods for testing design theories and models are lacking in design research, and that the discipline is fragmented in separate research strands” (Vermaas, 2014)
-  - “37% of the articles reviewed did not have any validation. There needs to be more validation in the field of research in engineering design.” [Barth, A. et al. 2011]
-  - “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field” [Blessing
-and Chakrabarti, 2009]
-  - “We often observe that PhD students present their work describing what they are doing or planning to do, but fail to state the research questions and hypotheses behind their work. When research questions are formulated, they are often very vague, too encompassing to be answered within one PhD project.” [Blessing & Chakrabarti ,2009]
-  - "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical construcs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]
+During the last decades, our community of researchers in engineering design has reached a general consensus:
+  <blockquote> "without action to increase scientific, theoretical, and methodological rigour there is a real possibility of the field being superseded and becoming obsolete through lack of impact." [Cash, 2018]</blockquote>
+  <blockquote> "There is this concern that design research does not live up to the standards of science: it is creating in a sense too many theories and models, which jeopardises the coherence of the discipline and which indicates that design research does not yet have the means to test and refute design theories and models." </blockquote>
+  <blockquote> "There is in design research a general concern about the quality of the testing of design theories and models. In work reflecting on the results that design research has produced, it is complained that generally accepted and effective research methods for testing design theories and models are lacking in design research, and that the discipline is fragmented in separate research strands” (Vermaas, 2014)</blockquote>
+  <blockquote> “37% of the articles reviewed did not have any validation. There needs to be more validation in the field of research in engineering design.” [Barth, A. et al. 2011]</blockquote>
+  <blockquote> “A lack of common terminology, benchmarked research methods, and above all, a common research methodology are the most outstanding problems in the field” [Blessing and Chakrabarti, 2009]</blockquote>
+  <blockquote> "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical construcs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]</blockquote>
+
+ For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally. 
 
 # Goals
 
