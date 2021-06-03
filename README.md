@@ -57,10 +57,14 @@ This code of conduct outlines expectations for paticipation in this Open Source 
 
 _*What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*_
 
-To reuse this project, the maker should know how to:
+To contribute to this project, you should know how to:
 
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
+- [Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github)
+- [Commit changes](https://docs.github.com/en/github/committing-changes-to-your-project)
+- [Create pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+- [Adress merge conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts)
 
 ## Benchmarks
 
