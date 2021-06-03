@@ -64,6 +64,8 @@ To reuse this project, the maker should know how to:
 
 ## Benchmarks
 
+The open science benchmarking environment contains a set of benchmark that aims at making technical progress objective and reproductible.
+
 <table>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
@@ -76,7 +78,7 @@ To reuse this project, the maker should know how to:
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">B-REP 3D Modelling in Virtual Reality</a></h2></p>
 <p><strong>Goal</strong>Benchmark virtual reality environments for modelling the B-REP geometry of 3D parts.</p>
-<p><strong>Keywords</strong>: B-REP, Geometry, Solid Modelling, Virtual Reality. </p></td>
+<p><strong>Keywords</strong>: B-REP, Geometry, Solid Modelling, Virtual Reality. </p>
 <p><strong>Metrics</strong>: Modelling time, modelling operations, NASA-TLX</p></td>
 </tbody>
 </tbody>
