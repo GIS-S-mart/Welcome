@@ -73,10 +73,10 @@ The open science benchmarking environment contains a set of benchmark that aims 
 <table>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
-<td><p><h2><a href=https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification">Model-Based Systems Engineering for Early V&V </a></h2></p>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification">Model-Based Systems Engineering for Early V&V </a></h2></p>
 <p>Provide methods and tools for the early validation and verification of engineered systems.</p>
-<p><strong>Impact</strong>: Expand the frontiers of off-road exploration and navigation using mobile robots for precision agriculture, firefighting, search and rescue, and planetary exploration. </p>
-<p><strong>Keywords</strong>: MBSE, Validation, Verification, Simulation</p></td>
+<p><strong>Keywords</strong>: MBSE, Validation, Verification, Simulation</p>
+<p><strong><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues"> Open Issues </a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
@@ -87,10 +87,7 @@ The open science benchmarking environment contains a set of benchmark that aims 
 </tbody>
 </tbody>
 </table>
-
-
-
-
+  
 ## Contribution Process
 
 _*Willing to be active with us? Follow this contribution process!*_
