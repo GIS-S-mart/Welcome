@@ -62,11 +62,28 @@ To reuse this project, the maker should know how to:
 - [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
 
-## Data organisation
+## Benchmarks
 
-This open science environement is organised into several repositories.
-- [Welcome - Open Science Benchmarking in Engineering Research ](https://github.com/GIS-S-mart/Welcome)
-- [Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification)
+<table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
+<td><p><h2><a href=https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification">Model-Based Systems Engineering for Early V&V </a></h2></p>
+<p>Provide methods and tools for the early validation and verification of engineered systems.</p>
+<p><strong>Impact</strong>: Expand the frontiers of off-road exploration and navigation using mobile robots for precision agriculture, firefighting, search and rescue, and planetary exploration. </p>
+<p><strong>Keywords</strong>: MBSE, Validation, Verification, Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">B-REP 3D Modelling in Virtual Reality</a></h2></p>
+<p><strong>Goal</strong>Benchmark virtual reality environments for modelling the B-REP geometry of 3D parts.</p>
+<p><strong>Keywords</strong>: B-REP, Geometry, Solid Modelling, Virtual Reality. </p></td>
+<p><strong>Metrics</strong>: Modelling time, modelling operations, NASA-TLX</p></td>
+</tbody>
+</tbody>
+</table>
+
+
+
 
 ## Contribution Process
 
