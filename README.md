@@ -92,8 +92,6 @@ The open science benchmarking environment contains a set of benchmark that aims 
 
 _*Willing to be active with us? Follow this contribution process!*_
 
-To contribute to the open science benchmarking environment for engineering research, you can:
-
 - If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
 - If you want to create a new benchmark, post on issues page and briefly outline the changes you plan to make
 - If you want to share a new dataset for testing, post on issues page of the right repository and briefly outline the changes you plan to make
@@ -129,12 +127,18 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
 
 * Open science:
   - [DATACC](https://www.datacc.org/)
+  - [Top 10 reasons to NOT share your code (and why you should anyway)](https://faculty.washington.edu/rjl/talks/LeVeque_CSE2011.pdf)
   - [How to describe data before publication](https://www.datacc.org/vos-besoins/documenter-ses-donnees/metadonnees/)
   - [Déposer ses données en ligne : où et comment ?](https://www.datacc.org/vos-besoins/valoriser-ses-donnees/deposer-ses-donnees-en-ligne-ou-et-comment/)
+  - [OSF](https://osf.io/)
+  - [Ouvrir la science](https://www.ouvrirlascience.fr/)
+* Open access repositories:
+  - [Software Heritage](https://www.softwareheritage.org/)
+  - [Archive Ouverte HAL](https://data.archives-ouvertes.fr/)
+  - [Zenodo](https://zenodo.org/)
   - [4TU.ResearchData](https://data.4tu.nl/info/en/)
   - [B2SHARE](https://eudat.eu/catalogue/B2SHARE)
   - [B2DROP](https://eudat.eu/catalogue/B2DROP)
-  - [OSF](https://osf.io/)
   - [Harvard Dataverse](https://dataverse.harvard.edu/)
 * Model-Based Systems Engineering:
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
