@@ -68,7 +68,7 @@ To contribute to this project, you should know how to:
 
 ## Benchmarks
 
-The open science benchmarking environment contains a set of benchmark that aims at making technical progress objective and reproductible.
+The open science benchmarking environment contains a set of benchmarks that aim at making technical progress objective and reproductible.
 
 <table>
 <tbody>
