@@ -43,7 +43,7 @@ If you think there is an error, please create a new issue.
 
 ## Code of Conduct
 
-This code of conduct outlines expectations for paticipation in this Open Source Benchmarking Environment for Research Engineering. By joining our community, you pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community by:
+This code of conduct outlines expectations for paticipation in this Open Source Benchmarking Environment for Engineering Research. By joining our community, you pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community by:
 - Being radically inclusive to existing members and newcomers looking to learn or participate
 - Being totally respectful of each others abilities, interests, viewpoints, experiences and personal differences
 - Gracefully accepting constructive criticism and being exceedingly kind even in moments of disagreement while working towards consensus
