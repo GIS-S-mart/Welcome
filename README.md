@@ -71,6 +71,7 @@ To contribute to this project, you should know how to:
 The open science benchmarking environment contains a set of benchmarks that aim at making technical progress objective and reproductible.
 
 <table>
+  
 <tbody>
 <td><img src="Images/Benchmark1_MBSE_VV.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification">Model-Based Systems Engineering for Early V&V </a></h2></p>
@@ -78,11 +79,13 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <p><strong>Keywords</strong>: MBSE, Validation, Verification, Simulation</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues"> Open Issues </a></p></td>
 </tbody>
+
 <tbody>
-<p>Benchmark methods and tools for the early validation and verification of engineered systems.</p>
+<td><img src="Images/Benchmark2_3DmodellingVR.png"  width=300 /></td>
+<td><p><h2><a href="...">3D modelling in Virtual Reality </a></h2></p>
+<p>Benchmark methods and tools for 3D modelling in virtual reality.</p>
 <p><strong>Keywords</strong>: Virtual Reality, Geometric Modelling</p>
 <p><strong><a href="">Discussions </a> - <a href=""> Open Issues </a></p></td>
-</tbody>
 </tbody>
 </table>
   
