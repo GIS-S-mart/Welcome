@@ -134,6 +134,7 @@ _*Now, this open-science repository is run by volunteers from the community. Wan
   - [OSF](https://osf.io/)
   - [Ouvrir la science](https://www.ouvrirlascience.fr/)
   - [OpenAIRE Nexus project](https://www.openaire.eu/openaire-nexus-project)
+  - [DoRANum](https://doranum.fr/)
 * Open access repositories:
   - [Software Heritage](https://www.softwareheritage.org/)
   - [Archive Ouverte HAL](https://data.archives-ouvertes.fr/)
