@@ -165,7 +165,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
 ## Related papers
 
 *Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
-- Webinar S.mart (2021) [https://www.youtube.com/watch?v=BNguokjm_wE]
+- [Webinar S.mart (2021)](https://www.youtube.com/watch?v=BNguokjm_wE])
 - Hein, A. M. and Lamé, G. (2020) [Evaluating engineering design methods: taking inspiration from software engineering and the health sciences](https://hal.archives-ouvertes.fr/hal-02866692)
 - Gericke, K. et al. (2020) [Supporting designers: moving from method menagerie to method ecosystem](https://www.cambridge.org/core/journals/design-science/article/supporting-designers-moving-from-method-menagerie-to-method-ecosystem/63DA0F12D7C5AB2D94DDFBE40DD7E8ED)
 - Isaksson, O. et al. (2020) [You need to focus to validate](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/you-need-to-focus-to-validate/B8301671F8388D4EFED8D4EFE15500D4)
