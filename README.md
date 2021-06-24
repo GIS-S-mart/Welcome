@@ -111,7 +111,7 @@ _*These were the original creators of this project. Want to contact the Core Tea
 
 ## Other participants
 
-_*Now, this open-science repository is run by volunteers from the community. Want to be an active member of our community? Add your contact details to the list!*_
+_*This open-science repository is run by volunteers from the community. Want to be an active member of our community? Add your contact details to the list!*_
 
 * Nabil Anwer - ENS-Paris-Saclay, LURPA - nabil.anwer@lurpa.ens-cachan.fr
 * Matthieu Bricogne - Université de Technologie de Compiègne, Roberval - matthieu.bricogne@utc.fr
