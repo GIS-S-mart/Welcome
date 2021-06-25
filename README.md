@@ -144,7 +144,8 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [B2SHARE](https://eudat.eu/catalogue/B2SHARE)
   - [B2DROP](https://eudat.eu/catalogue/B2DROP)
   - [Harvard Dataverse](https://dataverse.harvard.edu/)
-* Model-Based Systems Engineering:
+* Modelling and Simulation:
+  - [PHYRE A Benchmark For Physical Reasoning](https://phyre.ai/#tasks)
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
 * Computer science academic challenges:
   - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
