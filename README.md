@@ -83,10 +83,10 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 <tbody>
 <td><img src="Images/Benchmark2_3DmodellingVR.png"  width=300 /></td>
-<td><p><h2><a href="...">3D modelling in Virtual Reality </a></h2></p>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR">3D modelling in Virtual Reality </a></h2></p>
 <p>Benchmark methods and tools for 3D modelling in virtual reality.</p>
 <p><strong>Keywords</strong>: Virtual Reality, Geometric Modelling</p>
-<p><strong><a href="">Discussions </a> - <a href=""> Open Issues </a></p></td>
+<p><strong><a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/discussions">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/issues"> Open Issues </a></p></td>
 </tbody>
 </table>
   
