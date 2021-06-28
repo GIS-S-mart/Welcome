@@ -107,7 +107,7 @@ _*These were the original creators of this project. Want to contact the Core Tea
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr
 * Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr
 * Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu
-* Lou Grimal - Université de Technologie de Troyes, ICD - lou.grimal@utt.fr
+* Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr
 
 ## Other participants
 
