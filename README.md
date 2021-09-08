@@ -126,6 +126,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Alix Thecle - Arts et Métiers ParisTech, IMS - Thecle.alix@ensam.eu 
 * Nadège Troussier - Université de Technologie de Troyes, ICD - nadege.troussier@utt.fr
 * Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
+* Gilles Foucault - Université Grenoble Alpes, G-SCOP - gilles.foucault@univ-grenoble-alpes.fr
 
 ## Related projects
 
