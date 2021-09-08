@@ -39,8 +39,8 @@ If you have any questions or run into problems during your benchmarking, please 
 
 Please also take a look at the list of **Open Issues**:
 - [**Open Issues on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
-- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues).
-- [**Open Issues on...** Open Issues on Benchmark 2 - 3D Modelling in VR](https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/issues).
+- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues)
+- [**Open Issues on...** Open Issues on Benchmark 2 - 3D Modelling in VR](https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/issues)
 
 - ...
 
