@@ -119,7 +119,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Florent Laroche - Ecole Centrale de Nantes, IS2N - florent.Laroche@ec-nantes.fr
 * Olivia Penas - Supméca, QUARTZ - olivia.penas@supmeca.fr
 * Régis Plateaux - Supméca, QUARTZ - regis.plateaux@supmeca.fr
-* Alix Thecle - Université Bordeaux 1, IMS - thecle.alix@ims-bordeaux.fr
+* Alix Thecle - Arts et Métiers ParisTech, IMS - Thecle.alix@ensam.eu 
 * Nadège Troussier - Université de Technologie de Troyes, ICD - nadege.troussier@utt.fr
 * Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
 
