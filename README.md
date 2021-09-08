@@ -108,10 +108,10 @@ _*Willing to be active with us? Follow this contribution process!*_
 
 _*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 
-* Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: rpinquie}
+* Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
 * Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr
-* Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: roucoules}
-* Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr {Git ID: LouGrimal}
+* Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: [roucoules](https://github.com/roucoules)}
+* Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr {Git ID: [LouGrimal](https://github.com/LouGrimal)}
 
 ## Other participants
 
@@ -126,7 +126,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Alix Thecle - Arts et Métiers ParisTech, IMS - Thecle.alix@ensam.eu 
 * Nadège Troussier - Université de Technologie de Troyes, ICD - nadege.troussier@utt.fr
 * Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
-* Gilles Foucault - Université Grenoble Alpes, G-SCOP - gilles.foucault@univ-grenoble-alpes.fr {Git ID: gilles-foucault-univ}
+* Gilles Foucault - Université Grenoble Alpes, G-SCOP - gilles.foucault@univ-grenoble-alpes.fr {Git ID: [gilles-foucault-univ](https://github.com/gilles-foucault-univ)}
 
 ## Related projects
 
