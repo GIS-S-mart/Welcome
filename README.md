@@ -109,7 +109,7 @@ _*Willing to be active with us? Follow this contribution process!*_
 _*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
-* Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr
+* Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr {Git ID: [jleduigo](https://github.com/jleduigo)}
 * Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: [roucoules](https://github.com/roucoules)}
 * Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr {Git ID: [LouGrimal](https://github.com/LouGrimal)}
 
