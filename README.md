@@ -98,12 +98,14 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 _*Willing to be active with us? Follow this contribution process!*_
 
-- If you are looking for input on what to contribute, brows the issues with the Requests or Bug label
-- If you want to create a new benchmark, post on issues page and briefly outline the new repository
-- If you want to share a new dataset for testing, post on issues page of the right repository and briefly outline the new dataset
-- If you want to submit a new solution to an existing benchmark problem, submit your sources to the right repository
-- If you want to add a new measure of performance to an existing benchmark problem, post on issues page and briefly the new measure of performance
-
+If you want to:
+- look for input on what to contribute, brows the issues with the Requests or Bug label
+- create a new benchmark, post on issues page and briefly outline the new benchmark
+- create a new repository to host you bencharm, fork the template reposutor
+- add/modify/remove a dataset to an existing benchmark, post on issues page and briefly outline the new dataset
+- add/modify/remove a comparison criteria to an existing benchmark, post on issues page and briefly outline the new criteria
+- submit your solution, post on issues page and use the field <title> to give a name to your solution
+ 
 ## Project team
 
 _*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
