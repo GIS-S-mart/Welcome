@@ -101,7 +101,7 @@ _*Willing to be active with us? Follow this contribution process!*_
 If you want to:
 - look for input on what to contribute, brows the issues with the Requests or Bug label
 - create a new benchmark, post on issues page and briefly outline the new benchmark
-- create a new repository to host you bencharm, fork the template repository by clicking on the button Use this template
+- create a new repository to host you bencharm, fork the "template repository" by clicking on the button "Use this template"
 - add/modify/remove a dataset to an existing benchmark, post on issues page and briefly outline the new dataset
 - add/modify/remove a comparison criteria to an existing benchmark, post on issues page and briefly outline the new criteria
 - submit your solution, post on issues page and use the field <title> to give a name to your solution
