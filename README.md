@@ -81,7 +81,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <td><img src="Images/Benchmark1_MBSE_VV.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification">Model-Based Systems Engineering for Early V&V </a></h2></p>
 <p>Benchmark methods and tools for the early validation and verification of engineered systems.</p>
-<p><strong>Keywords</strong>: MBSE, Validation, Verification, Simulation</p>
+<p><strong>Keywords</strong>: MBSE, Validation, Verification</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues"> Open Issues </a></p></td>
 </tbody>
 
@@ -89,8 +89,24 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <td><img src="Images/Benchmark2_3DmodellingVR.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR">3D modelling in Virtual Reality </a></h2></p>
 <p>Benchmark methods and tools for 3D modelling in virtual reality.</p>
-<p><strong>Keywords</strong>: Virtual Reality, Geometric Modelling</p>
+<p><strong>Keywords</strong>: Virtual Reality, Geometric Modelling, CAD</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/discussions">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/issues"> Open Issues </a></p></td>
+</tbody>
+
+<tbody>
+<td><img src="Images/Benchmark3_LCA.jpg"  width=300 /></td>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA">Ability to conduct Life Cycle Assessment in Education</a></h2></p>
+<p>Identify the most suitable Life Cycle Assessment method for a teaching poupulation.</p>
+<p><strong>Keywords</strong>: Life cycle analysis, Sustainability, Teaching</p>
+<p><strong><a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA/discussions">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA/issues"> Open Issues </a></p></td>
+</tbody>
+
+<tbody>
+<td><img src="Images/Benchmark4_Value"  width=300 /></td>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA">Value provided to stakeholders in design for sustainability</a></h2></p>
+<p>Benchmark approaches for measuring the value provided to stakeholders in a design for sustainability process.</p>
+<p><strong>Keywords</strong>: Value, Sustainability, Stakeholders</p>
+<p><strong><a href="https://github.com/GIS-S-mart/Benchmark-3_Stakeholder_integration_in_DfS_complex_systems/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-3_Stakeholder_integration_in_DfS_complex_systems/issues"> Open Issues </a></p></td>
 </tbody>
 </table>
   
