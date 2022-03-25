@@ -25,6 +25,7 @@ This open science project has been born and developed in order to make a move fo
 
 *What's new?*
 
+- 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](...)
 - 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
 - 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Slides.pdf) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Webinar_smart_validation_framapad.pdf)
 
