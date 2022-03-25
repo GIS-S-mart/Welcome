@@ -98,7 +98,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <td><img src="Images/Benchmark3_LCA.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA">Ability to conduct Life Cycle Assessment in Education</a></h2></p>
 <p>Identify the most suitable Life Cycle Assessment method for a teaching poupulation.</p>
-<p><strong>Keywords</strong>: Life cycle analysis, Sustainability, Teaching</p>
+<p><strong>Keywords</strong>: Life cycle analysis, Sustainability, Competencies Evaluation</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA/discussions">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-4_Sustainability_Competences_LCA/issues"> Open Issues </a></p></td>
 </tbody>
 
