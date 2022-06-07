@@ -111,7 +111,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 </tbody>
 
 <tbody>
-<td><img src="Images/Benchmark5_MBSE_review"  width=300 /></td>
+<td><img src="Images/Benchmark5_MBSE_review.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews">Model-Based Design reviews</a></h2></p>
 <p>Open benchmark exercise(s) for comparing digital materials supporting model-based design reviews.</p>
 <p><strong>Keywords</strong>: Model-Based Design, Design review</p>
