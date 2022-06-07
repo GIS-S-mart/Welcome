@@ -109,6 +109,15 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <p><strong>Keywords</strong>: Value, Sustainability, Stakeholders</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-3_Stakeholder_integration_in_DfS_complex_systems/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-3_Stakeholder_integration_in_DfS_complex_systems/issues"> Open Issues </a></p></td>
 </tbody>
+
+<tbody>
+<td><img src="Images/Benchmark5_MBSE_review"  width=300 /></td>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews">Model-Based Design reviews.</a></h2></p>
+<p>Open benchmark exercise(s) for comparing digital materials supporting model-based design reviews.</p>
+<p><strong>Keywords</strong>: Model-Based Design, Design review</p>
+<p><strong><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/issues"> Open Issues </a></p></td>
+</tbody>
+
 </table>
   
 ## Contribution Process
