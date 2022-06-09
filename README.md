@@ -1,4 +1,4 @@
-# Open Science Benchmarking for Engineering Research
+# Open Benchmarking Platform for Engineering Design Research
 
 This open science wiki site is a collaborative space that gathers engineering methods and tools resulting from research studies to be benchmarked for providing objective evidences that the community is making progress.
 
