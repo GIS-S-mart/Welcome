@@ -1,4 +1,4 @@
-# How to contribute to the benchmarks in industrial engineering research? 
+# How to contribute to industrial engineering research benchmarks? 
 
 In this guide, you will get an overview of the contribution workflow from creating a new benchmark or modifying a existing one.
 
