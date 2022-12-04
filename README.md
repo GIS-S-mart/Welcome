@@ -38,23 +38,9 @@ This open science project has been born and developed in order to make a move fo
 - 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
 - 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Slides.pdf) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Webinar_smart_validation_framapad.pdf)
 
-## Joining the community 
+## Contribution Process
 
-If you have any questions or run into problems during your benchmarking, please search for answers and/or reach out on **Discussions**:
-- [**Discussions on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/discussions)
-- [**Discussions on...** Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/discussions/new?category=announcements&welcome_text=true)
-- [**Discussions on...** Benchmark 2 - 3D Modelling in VR](https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/discussions)
-
-- ...
-
-Please also take a look at the list of **Open Issues**:
-- [**Open Issues on...** Open science Benchmarking in Engineering Research](https://github.com/GIS-S-mart/Welcome/issues)
-- [**Open Issues on...** Open Issues on Benchmark 1 - Model-Based Systems Engineering for Validation and Verification](https://github.com/GIS-S-mart/Benchmark-1_Model-Based_Systems_Engineering_for_Validation_and_Verification/issues)
-- [**Open Issues on...** Open Issues on Benchmark 2 - 3D Modelling in VR](https://github.com/GIS-S-mart/Benchmark-2_3D_modelling_in_VR/issues)
-
-- ...
-
-If you think there is an error, please create a new issue.
+_*Willing to be active with us? Follow the [contributing guide](https://github.com/GIS-S-mart/Welcome/blob/main/docs/contributing.md)!*_
 
 ## Code of Conduct
 
@@ -67,19 +53,6 @@ This code of conduct outlines expectations for paticipation in this Open Source 
 - Preventing any public or private business opportunities of the open source content without agreeing with the original authors and contributors of the sources
 
 **People violating this code of conduct may be banned from the community**
-
-## Required Background
-
-_*What are the specific knowledge prerequisite a maker should have in order to create his own documentation based on this project?*_
-
-To contribute to this project, you should know how to:
-
-- [Clone a GIT repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- [Edit a Markdown file](https://guides.github.com/features/mastering-markdown/)
-- [Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github)
-- [Commit changes](https://docs.github.com/en/github/committing-changes-to-your-project)
-- [Create pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
-- [Address merge conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts)
 
 ## Benchmarks
 
@@ -128,10 +101,6 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 </tbody>
 
 </table>
-
-## Contribution Process
-
-_*Willing to be active with us? Follow the [contributing guide](https://github.com/GIS-S-mart/Welcome/blob/main/docs/contributing.md)!*_
 
 ## Project team
 
