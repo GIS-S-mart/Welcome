@@ -2,7 +2,7 @@
 
 By the generalisation of Sigmund's assessment [Sigmund, 2009] of research in topology optimization, we observe that *"after several decades of developments, engineering research has come very far. Nevertheless, there is still room for improvement. However, such improvements must be well documented and fairly evaluated. Time is over for making statements like “... results seem to be better from existing ones from the literature ...” or “... results cannot be validated because it requires an industrial partnership and more time".... **It is authors’ responsibility to make quantitative judgements and fair comparisons to the state of the art.*** "
 
-This version-controlled and community-based open platform is a collaborative space to gather benchmarks of engineering processes, methods and tools that intend to provide objective evidence that the community is making progress.
+This version-controlled and community-based open platform is a collaborative space gathering benchmarks of engineering theories, processes, methods and tools that intend to provide objective evidence.
 
 ## Motivations
 
@@ -33,6 +33,7 @@ This open science project has been born and developed in order to make a move fo
 
 *What's new?*
 
+- 08/06/2022 - Animation of two benchmarking workshops (architecture synthesis and early V&V) during the Academia-Industry forum of the INCOSE French chapter (AFIS).
 - 21/06/2022 - Meeting of french academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems.
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
 - 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
@@ -45,14 +46,14 @@ _*Willing to be active with us? Follow the [contributing guide](https://github.c
 ## Code of Conduct
 
 This code of conduct outlines expectations for paticipation in this Open Source Benchmarking Environment for Engineering Research. By joining our community, you pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community by:
-- Being radically inclusive to existing members and newcomers looking to learn or participate
-- Being totally respectful of each others abilities, interests, viewpoints, experiences and personal differences
-- Gracefully accepting constructive criticism and being exceedingly kind even in moments of disagreement while working towards consensus
-- Educating and illuminating others with something you know more about
-- Contacting the original contributors before any external communication
-- Preventing any public or private business opportunities of the open source content without agreeing with the original authors and contributors of the sources
+- Being radically inclusive to existing members and newcomers looking to learn or participate.
+- Being totally respectful of each others abilities, interests, viewpoints, experiences and personal differences.
+- Gracefully accepting constructive criticism and being exceedingly kind even in moments of disagreement while working towards consensus.
+- Educating and illuminating others with something you know more about.
+- Contacting the original contributors before any external communication.
+- Preventing any public or private business opportunities of the open source content without agreeing with the original authors and contributors of the sources.
 
-**People violating this code of conduct may be banned from the community**
+**People violating this code of conduct may be banned from the community.**
 
 ## Benchmarks
 
