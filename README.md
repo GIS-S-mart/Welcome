@@ -8,7 +8,7 @@ This version-controlled and community-based open platform is a collaborative spa
 
 *Why did we start this open science environment for benchmarking engineering research?*
 
-During the last decades, our community of researchers in engineering design has reached a general consensus 
+During the last decades, our community of researchers in engineering design has reached a general consensus:
 
 <blockquote> "Many submitted and even published works that at best provide epsilon increments to prior art, or worse: works that claim ground breaking ideas but fail to do so because of e.g. ignorance of prior literature, misinterpretation of prior or own results, fundamental errors or misunderstandings or even deliberately wrong claims or presentations that hide underlying flaws." [Sigmund, 2022]
 </blockquote>
@@ -27,13 +27,13 @@ During the last decades, our community of researchers in engineering design has 
 
 *What does this project provide?*
 
-This open science project has been born and developed in order to make a move for the engineering research community progress.
+This open science project has been born and developed in order to make a move for the industiral engineering research community's progress.
 
 ## News
 
 *What's new?*
 
-- 21/06/2022 - Meeting of french academics whose research concentrates on systems engineering.  Part of researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architectures synthesis; 2) Early validation and verification of systems.
+- 21/06/2022 - Meeting of french academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems.
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
 - 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
 - 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Slides.pdf) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Webinar_smart_validation_framapad.pdf)
@@ -131,15 +131,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 ## Contribution Process
 
-_*Willing to be active with us? Follow the contributing guire!*_
-
-
-- look for input on what to contribute, brows the issues with the Requests or Bug label
-- create a new benchmark, post on issues page and briefly outline the new benchmark
-- create a new repository to host you benchark, fork the "template repository" by clicking on the button "Use this template"
-- add/modify/remove a dataset to an existing benchmark, post on issues page and briefly outline the new dataset
-- add/modify/remove a comparison criteria to an existing benchmark, post on issues page and briefly outline the new criteria
-- submit your solution, post on issues page and use the field <title> to give a name to your solution
+_*Willing to be active with us? Follow the [contributing guide](https://github.com/GIS-S-mart/Welcome/blob/main/docs/contributing.md)!*_
 
 ## Project team
 
