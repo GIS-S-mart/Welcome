@@ -1,4 +1,4 @@
-# Open Community Hub for Benchmarking Engineering Research
+# Benchmarks in Industrial Engineering Research 
 
 By the generalisation of Sigmund's assessment [Sigmund, 2009] of research in topology optimization, we observe that *"after several decades of developments, engineering research has come very far. Nevertheless, there is still room for improvement. However, such improvements must be well documented and fairly evaluated. Time is over for making statements like “... results seem to be better from existing ones from the literature ...” or “... results cannot be validated because it requires an industrial partnership and more time".... **It is authors’ responsibility to make quantitative judgements and fair comparisons to the state of the art.*** "
 
