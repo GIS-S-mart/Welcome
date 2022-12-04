@@ -1,4 +1,4 @@
-# Open and Community-Based Platform for Benchmarking Engineering Researches
+# Open Community Hub for Benchmarking Engineering Research
 
 By the generalisation of Sigmund's assessment [Sigmund, 2009] of research in topology optimization, we observe that *"after several decades of developments, engineering research has come very far. Nevertheless, there is still room for improvement. However, such improvements must be well documented and fairly evaluated. Time is over for making statements like “... results seem to be better from existing ones from the literature ...” or “... results cannot be validated because it requires an industrial partnership and more time".... **It is authors’ responsibility to make quantitative judgements and fair comparisons to the state of the art.*** "
 
@@ -79,7 +79,7 @@ To contribute to this project, you should know how to:
 - [Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github)
 - [Commit changes](https://docs.github.com/en/github/committing-changes-to-your-project)
 - [Create pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
-- [Adress merge conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts)
+- [Address merge conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts)
 
 ## Benchmarks
 
@@ -131,9 +131,9 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 ## Contribution Process
 
-_*Willing to be active with us? Follow this contribution process!*_
+_*Willing to be active with us? Follow the contributing guire!*_
 
-If you want to:
+
 - look for input on what to contribute, brows the issues with the Requests or Bug label
 - create a new benchmark, post on issues page and briefly outline the new benchmark
 - create a new repository to host you benchark, fork the "template repository" by clicking on the button "Use this template"

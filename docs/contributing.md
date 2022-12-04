@@ -1,28 +1,45 @@
-# Welcome to GitHub docs contributing guide <!-- omit in toc -->
+# Welcome to the open science benchmarking platform contributing guide
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on this repository. 
+In this guide you will get an overview of the contribution workflow from opening an issue, creating a pull request, reviewing, and merging the pull request.
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+## Resources
 
-In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
-
-Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
-
-## New contributor guide
-
-To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+Here are some resources to help you get started with open source contributions:
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github)
+- [Commit changes](https://docs.github.com/en/github/committing-changes-to-your-project)
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
+- [Create pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+- [Address merge conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts)
+- [Write markdown files](https://guides.github.com/features/mastering-markdown/)
 
+## How to create a new benchmark?
 
-## Getting started
+1. [Browse the existing set of benchmarks](https://github.com/GIS-S-mart)
+2. If your purpose is not covered by existing benchmarks but you are not sure whether it is specific enough to motivate the invention of a new one, then post on the [discussions page of the organization team](https://github.com/orgs/GIS-S-mart/discussions) and briefly outline the new benchmark so as to enable subject-matter experts from the community to argue. Tag your issue with the label *new_benchmark*.
+3. If your purpose is not covered by existing benchmarks and you are not sure that it is specific enough to motivate the invention of a new one, then create a new issue from the [issues page of the organization](https://github.com/GIS-S-mart/organization_team/issues) and briefly outline the new benchmark. Tag your issue with the label *new_benchmark*.
+4. Create a new private repository to host your benchmark by navigating to the [repository template](https://github.com/GIS-S-mart/Benchmark-0_Template) and clicking on the button "Use this template".
+5. Define the new benchmark and commit the changes once you are happy with them.
+6. When you're finished with the changes, create a pull request (see below).
+7. Your pull request is merged! Once your pull request is merged, your benchmark will be publicly visible.
 
-To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/working-in-docs-repository.md) :confetti_ball:. For more information on how we write our markdown files, see [the GitHub Markdown reference](contributing/content-markup-reference.md).
+## How to modify an existing benchmark?
 
-Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+- ### How to submit a new benchmark problem?
+
+- ### How to submit a new comparison criterion?
+
+- ### How to submit a new experimental protocol?
+
+- ### How to submit a new solution?
+
+## How start a discussion with organization members?
+
+On the team's page, you can use team discussions for conversations that span across projects/repositories and don't belong to a specific issue or pull request. Instead of opening an issue in a repository to discuss an idea, you can include the entire organization team by having a conversation in a team discussion.
+
+Any organization member can post on the team's page or participate in a public discussion. *Private* posts are only visible to team members and organization owners, and *public* posts are visible to all members of the organization.
 
 ### Issues
 
@@ -35,12 +52,6 @@ If you spot a problem with the docs, [search if an issue already exists](https:/
 Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Make Changes
-
-#### Make changes in the UI
-
-Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review. 
-
- <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
 
 #### Make changes in a codespace
 
@@ -58,9 +69,8 @@ For more information about using a codespace for working on GitHub documentation
 - Using the command line:
   - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
 
-3. Install or update to **Node.js v16**. For more information, see [the development guide](contributing/development.md).
+3. Create a working branch and start with your changes!
 
-4. Create a working branch and start with your changes!
 
 ### Commit your update
 
@@ -77,21 +87,3 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 - As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
-### Your PR is merged!
-
-Congratulations :tada::tada: The GitHub team thanks you :sparkles:. 
-
-Once your PR is merged, your contributions will be publicly visible on the [GitHub docs](https://docs.github.com/en). 
-
-Now that you are part of the GitHub docs community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
-
-## Windows
-
-This site can be developed on Windows, however a few potential gotchas need to be kept in mind:
-
-1. Regular Expressions: Windows uses `\r\n` for line endings, while Unix-based systems use `\n`. Therefore, when working on Regular Expressions, use `\r?\n` instead of `\n` in order to support both environments. The Node.js [`os.EOL`](https://nodejs.org/api/os.html#os_os_eol) property can be used to get an OS-specific end-of-line marker.
-2. Paths: Windows systems use `\` for the path separator, which would be returned by `path.join` and others. You could use `path.posix`, `path.posix.join` etc and the [slash](https://ghub.io/slash) module, if you need forward slashes - like for constructing URLs - or ensure your code works with either.
-3. Bash: Not every Windows developer has a terminal that fully supports Bash, so it's generally preferred to write [scripts](/script) in JavaScript instead of Bash.
-4. Filename too long error: There is a 260 character limit for a filename when Git is compiled with `msys`. While the suggestions below are not guaranteed to work and could cause other issues, a few workarounds include:
-    - Update Git configuration: `git config --system core.longpaths true`
-    - Consider using a different Git client on Windows
