@@ -99,8 +99,11 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 ## Project team
 
-_*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
+* Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
 
+## Project team
+
+_*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
 * Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr {Git ID: [jleduigo](https://github.com/jleduigo)}
 * Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: [roucoules](https://github.com/roucoules)}
