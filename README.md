@@ -97,11 +97,11 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 </tbody>
 </table>
 
-## Project team
+## Project Lead
 
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
 
-## Project team
+## Project Team
 
 _*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
@@ -109,7 +109,7 @@ _*These were the original creators of this project. Want to contact the Core Tea
 * Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: [roucoules](https://github.com/roucoules)}
 * Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr {Git ID: [LouGrimal](https://github.com/LouGrimal)}
 
-## Other participants
+## Other Participants
 
 _*This open-science repository is run by volunteers from the community. Want to be an active member of our community? Add your contact details to the list!*_
 
@@ -124,7 +124,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
 * Gilles Foucault - Université Grenoble Alpes, G-SCOP - gilles.foucault@univ-grenoble-alpes.fr {Git ID: [gilles-foucault-univ](https://github.com/gilles-foucault-univ)}
 
-## Related projects
+## Related Projects
 
 *What are the existing sources that have inspired this project?*
 
@@ -145,9 +145,17 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [B2SHARE](https://eudat.eu/catalogue/B2SHARE)
   - [B2DROP](https://eudat.eu/catalogue/B2DROP)
   - [Harvard Dataverse](https://dataverse.harvard.edu/)
-* Modelling and Simulation benchmarks:
-  - [PHYRE A Benchmark For Physical Reasoning](https://phyre.ai/#tasks)
+* Systems engineering datasets:
+  - [Thermostat, flight control system, flight guidance system, autopilot of the FAA Requirements Engineering Management Handbook](https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf)
+  - [The generic infusion pump](https://rtg.cis.upenn.edu/gip/)
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
+  - [The landing gear case study: challenges and experiments](https://hal.science/hal-01851720/document)
+  - [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA/AIDASafety)
+  - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
+* Additive Manufacturing:
+  - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
+* Artificial Intelligence applied to Engineering Design:
+  - [PHYRE A Benchmark For Physical Reasoning](https://phyre.ai/#tasks)
 * Computer science challenges:
   - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
   - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
@@ -156,6 +164,10 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [Kaggle](https://www.kaggle.com/competitions)
   - [Challenge Data ENS](https://www.google.com/search?q=challenge+data+ens&oq=challenge+data+ens&aqs=chrome..69i57j69i65.2303j0j1&sourceid=chrome&ie=UTF-8) 
   - [Hackatons](https://www.hackateam.com/fr/challenges)
+* Topological optimization:
+  - [Aircraft wing design](https://data.dtu.dk/collections/TopWing_Data/5043437/1)
+  - [Suspension bridge](https://data.dtu.dk/collections/TopWing_Data/5043437/1)
+
 * Shape retrieval:
   - [Princeton shape retrieval and analysis group](https://gfx.cs.princeton.edu/proj/shape/)
   - [Shape retrieval contest for CAD models](https://engineering.purdue.edu/PRECISE/shrec08)
@@ -164,7 +176,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
   - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
 
-## Related papers
+## Related Papers
 
 *Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
 - Sigmund, O. (2022) [On benchmarking and good scientific practise in topology optimization](https://link.springer.com/article/10.1007/s00158-022-03427-2)
