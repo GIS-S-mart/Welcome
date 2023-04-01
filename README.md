@@ -10,10 +10,6 @@ This version-controlled and community-based open platform is a collaborative spa
 
 During the last decades, our community of researchers in engineering design has reached a general consensus:
 
-<blockquote> "Many submitted and even published works that at best provide epsilon increments to prior art, or worse: works that claim ground breaking ideas but fail to do so because of e.g. ignorance of prior literature, misinterpretation of prior or own results, fundamental errors or misunderstandings or even deliberately wrong claims or presentations that hide underlying flaws." [Sigmund, 2022]
-</blockquote>
-<blockquote> "Reviewers use an increasing amount of time and energy discovering misdoings and either rejecting worst cases or helping authors to improve their manuscripts in lengthy peer review processes." [Sigmund, 2022]
-</blockquote>
 <blockquote> "As foundation of good scientific practise, manuscripts submitted for publication must advance the state of the art and provide novel theoretical, numerical or mechanical insight and knowledge. Sometimes, good ideas turn out to be not as good as initially expected, i.e., the initial research hypotheses or promises turn out not to hold. This is no shame and in fact learning from other researches’ mistakes or failed attempts may be just as fruitful as learning from successes and may save a lot of time. Unfortunately, however, many manuscripts set out with high goals and claims but fail to critically evaluate the outcome at the end." [Sigmund, 2022]
 </blockquote>
 <blockquote> "Real progress on evaluating design methods can only be expected if preconditions such as standardized theoretical constructs, measures, data bases of empirical data, and a sufficient number of studies on specific design methods are developed." [Hein and Lamé, 2020]</blockquote>
