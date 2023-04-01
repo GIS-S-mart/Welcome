@@ -32,14 +32,11 @@ Here are some resources to help you get started with open source contributions:
    1. If a related issue doesn't exist, you can open a new issue using the relevant `issue form` and tag it with the right `label`:
       1.  *'goal'* `label` and `issue form` to create, update or delete a goal;
       2.  *'metric'* `label` and `issue form` to create, update or delete a metric; 
-      3.  *'problem'* `label` and `issue form`  to create, update or delete a benchmark problem;
-      4.  *'protocol'* `label` and `issue form`  to create, update or delete an experimental protocol;
-      5.  *'solution'*  `label` and `issue form`  to create, update or delete an experimental protocol;
-
+      3.  *'exercise'* `label` and `issue form`  to create, update or delete a benchmark exercise;
+      4.  *'solution'*  `label` and `issue form`  to create, update or delete a candidate solution;
+      5.  *'protocol'* `label` and `issue form`  to create, update or delete a measurement protocol;
 2. Alternatively, you may scan through the [existing issues]() to find one that interests you. You can narrow down the search using `labels` as filters.
-
 3. We don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a pull request with a fix.
-
 4. Make changes locally:
 
    1. [Install Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage) if needed.
@@ -49,9 +46,7 @@ Here are some resources to help you get started with open source contributions:
       - Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
 
    3. Create a working branch and start with your changes!
-
 5. Commit the changes once you are happy with them.
-
 6. When you're finished with the changes, create a pull request:
 
    - Fill the "Ready for review" template so that we can review your pull request. This template helps reviewers understand your changes as well as the purpose of your pull request. 
@@ -64,6 +59,6 @@ Here are some resources to help you get started with open source contributions:
 
 ## How start a discussion with organisation members?
 
-On the team's page, you can use team discussions for conversations that span across projects/repositories and don't belong to a specific issue or pull request. Instead of opening an issue in a repository to discuss an idea, you can include the entire organisation team by having a conversation in a team discussion.
+On the [team's page](https://github.com/GIS-S-mart/organization_team), you can use [team discussions](https://github.com/orgs/GIS-S-mart/discussions) for conversations that span across projects/repositories and don't belong to a specific issue or pull request. Instead of opening an issue in a repository to discuss an idea, you can include the entire organisation team by having a conversation in a team discussion.
 
-Any organisation member can post on the team's page or participate in a public discussion. *Private* posts are only visible to team members and organisation owners, and *public* posts are visible to all members of the organisation.
+Any organisation member can post on the [team's page](https://github.com/GIS-S-mart/organization_team) or participate in a [public discussion](https://github.com/orgs/GIS-S-mart/discussions) . *Private* posts are only visible to team members and organisation owners, and *public* posts are visible to all members of the organisation.
