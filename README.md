@@ -29,11 +29,10 @@ This open science project has been born and developed in order to make a move fo
 
 *What's new?*
 
-- 04/04/2023 - Workshop GIS S.mart "Co-design of a community-based ecosystem to improve validation practices in engineering research”, Carry le Rouet, France.
 - 08/06/2022 - Animation of two benchmarking workshops (architecture synthesis and early V&V) during the Academia-Industry forum of the INCOSE French chapter (AFIS).
-- 21/06/2022 - Workshop of french academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems.
+- 21/06/2022 - Meeting of french academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems.
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
-- 31/03/2021 - Workshop GIS S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf), on-line.
+- 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
 - 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Slides.pdf) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Webinar_smart_validation_framapad.pdf)
 
 ## Contribution Process
@@ -142,13 +141,20 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [B2SHARE](https://eudat.eu/catalogue/B2SHARE)
   - [B2DROP](https://eudat.eu/catalogue/B2DROP)
   - [Harvard Dataverse](https://dataverse.harvard.edu/)
-* Systems engineering datasets:
+* Systems Engineering:
   - [Thermostat, flight control system, flight guidance system, autopilot of the FAA Requirements Engineering Management Handbook](https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf)
   - [The generic infusion pump](https://rtg.cis.upenn.edu/gip/)
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
   - [The landing gear case study: challenges and experiments](https://hal.science/hal-01851720/document)
   - [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA/AIDASafety)
   - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
+* Model-Based Systems Engineering:
+  * [Drug delivery autoinjector system](https://web.mst.edu/~cornss/incose/On-LineModel/DrugDeliveryModel22Feb2013.html)
+  * [GFSE Telescope](https://www.gfse.de/images/mbse/telescope/ape.html)
+  * [Thirty Meter Telescope](https://github.com/Open-MBEE/TMT-SysML-Model)
+  * [Harmony aMBSE Deskbook Models](https://wix.anyfileapp.net/dl?id=553246736447566b58312b37447a75486c35332f6e6c346c447a4e627a764b3070725259547138585835464e6936476951363866596c695a364743504639493045794c53614a516c534a705368774477414636702f773d3d)
+  * [Model-Based STPA](https://github.com/DLR-FT/ModelBasedSTPA)
+
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
 * Artificial Intelligence applied to Engineering Design:
