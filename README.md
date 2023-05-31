@@ -29,7 +29,8 @@ This open science project has been born and developed in order to make a move fo
 
 *What's new?*
 
-- 08/06/2022 - Animation of two benchmarking workshops (architecture synthesis and early V&V) during the Academia-Industry forum of the INCOSE French chapter (AFIS).
+- 04/04/2023 - Animation of the workshop *"Co-design of a community-based ecosystem to improve validation practices in engineering research”*, S.mart Special Interest Group in Industry 4.0. [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20230404 - S.mart 2023.ppsx) 
+- 08/12/2022 - Animation of two benchmarking workshops "*Architecture synthesis*" and "*Early V&V*" during the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20221208 - Atelier bencharking V&V (RP+LR) VF.ppsx) 
 - 21/06/2022 - Meeting of french academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems.
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
 - 31/03/2021 - Atelier S.mart "Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route." [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
