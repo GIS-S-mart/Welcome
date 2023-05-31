@@ -147,15 +147,14 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [The generic infusion pump](https://rtg.cis.upenn.edu/gip/)
   - [OMG MBSE Methodology and Metrics](https://www.omgwiki.org/MBSE/doku.php?id=mbse:methodology)
   - [The landing gear case study: challenges and experiments](https://hal.science/hal-01851720/document)
-  - [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA/AIDASafety)
   - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
 * Model-Based Systems Engineering:
   * [Drug delivery autoinjector system](https://web.mst.edu/~cornss/incose/On-LineModel/DrugDeliveryModel22Feb2013.html)
+  * [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA/AIDASafety)
   * [GFSE Telescope](https://www.gfse.de/images/mbse/telescope/ape.html)
   * [Thirty Meter Telescope](https://github.com/Open-MBEE/TMT-SysML-Model)
   * [Harmony aMBSE Deskbook Models](https://wix.anyfileapp.net/dl?id=553246736447566b58312b37447a75486c35332f6e6c346c447a4e627a764b3070725259547138585835464e6936476951363866596c695a364743504639493045794c53614a516c534a705368774477414636702f773d3d)
   * [Model-Based STPA](https://github.com/DLR-FT/ModelBasedSTPA)
-
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
 * Artificial Intelligence applied to Engineering Design:
@@ -171,7 +170,6 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Topological optimization:
   - [Aircraft wing design](https://data.dtu.dk/collections/TopWing_Data/5043437/1)
   - [Suspension bridge](https://data.dtu.dk/collections/TopWing_Data/5043437/1)
-
 * Shape retrieval:
   - [Princeton shape retrieval and analysis group](https://gfx.cs.princeton.edu/proj/shape/)
   - [Shape retrieval contest for CAD models](https://engineering.purdue.edu/PRECISE/shrec08)
