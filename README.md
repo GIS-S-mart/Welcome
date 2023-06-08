@@ -150,7 +150,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
 * Model-Based Systems Engineering:
   * [Drug delivery autoinjector system](https://web.mst.edu/~cornss/incose/On-LineModel/DrugDeliveryModel22Feb2013.html)
-  * [Aircraft inspection and drone assistant system]([https://sahara.irt-saintexupery.com/AIDA/AIDASafety](https://sahara.irt-saintexupery.com/AIDA))
+  * [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA)
   * [GFSE Telescope](https://www.gfse.de/images/mbse/telescope/ape.html)
   * [Thirty Meter Telescope](https://github.com/Open-MBEE/TMT-SysML-Model)
   * [Harmony aMBSE Deskbook Models](https://wix.anyfileapp.net/dl?id=553246736447566b58312b37447a75486c35332f6e6c346c447a4e627a764b3070725259547138585835464e6936476951363866596c695a364743504639493045794c53614a516c534a705368774477414636702f773d3d)
