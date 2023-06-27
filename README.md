@@ -1,8 +1,8 @@
 # Benchmarks in Industrial Engineering Research 
 
-We observe that after several decades of developments, engineering research has come very far. Nevertheless, there is still room for improvement. Such improvements must be well documented and fairly evaluated. Time is over for making claims like “... results seem to be better from existing ones from the literature ...” or “... results cannot be validated because it requires an industrial partnership and more time".... It is authors’ responsibility to make quantitative judgements and fair comparisons to the state of the art.
+We observe that after several decades of development, engineering research has come very far. Nevertheless, there is still room for improvement. Such improvements must be well documented and fairly evaluated. Time is over for making claims like “... results seem to be better from existing ones from the literature ...” or “... results cannot be validated because it requires an industrial partnership and more time".... It is authors’ responsibility to make quantitative judgements and fair comparisons to the state of the art.
 
-This version-controlled and community-based open platform is a collaborative space gathering benchmarks of engineering theories, processes, methods and tools that intend to provide objective evidence.
+This version-controlled and community-based open science platform is a collaborative space gathering benchmarks of engineering theories, processes, methods and tools. Each benchmark is a  sustainable ecosystem where a community of researchers can engage in an asynchronous collaboration for 1/the co-definition of fundamental and practical research problems, goals and solutions, 2/ the fair and systematic evaluation of claimed contributions on open benchmark exercises following standardized measurement protocols, and 3/ the comparison of competing solutions based on agreed-upon qualitative or quantitative measures of performance aligned with research goals.
 
 ## Motivations
 
