@@ -191,10 +191,12 @@ _*This open-science repository is run by volunteers from the community. Want to 
 ## Related Papers
 
 *Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
+- Paehler, L. *et al* (2023) [Impact of Method Users on the Application of Design Methods—Assessing the Role of Method-related Background Knowledge.](https://doi.org/10.35199/dfx2023.06)
+- Escudero-Mancebo, D. *et al* (2023) [Research methods in engineering design : A synthesis of recent studies using a systematic literature review.](https://doi.org/10.1007/s00163-022-00406-y)
 - Gericke, K. _et al._ (2022) [Elements of a design method - a basis for describing and evaluating design methods](https://www.cambridge.org/core/journals/design-science/article/elements-of-a-design-method-a-basis-for-describing-and-evaluating-design-methods/A7387B643DBFDB5DF9075261D7D61408)
 - Sigmund, O. (2022) [On benchmarking and good scientific practise in topology optimization](https://link.springer.com/article/10.1007/s00158-022-03427-2)
 - Pinquié, R. _et al._ (2022) [An open science platform for benchmarking engineering design researches](https://www.sciencedirect.com/science/article/pii/S2212827122007296)
-- Eisenmann, M. _et al._ [Design method validation – an investigation of the current practice in design research](https://www.tandfonline.com/doi/abs/10.1080/09544828.2021.1950655?journalCode=cjen20)
+- Eisenmann, M. _et al._ (2021) [Design method validation – an investigation of the current practice in design research](https://www.tandfonline.com/doi/abs/10.1080/09544828.2021.1950655?journalCode=cjen20)
  - Hein, A. M. and Lamé, G. (2020) [Evaluating engineering design methods: taking inspiration from software engineering and the health sciences](https://hal.archives-ouvertes.fr/hal-02866692)
 - Gericke, K. et al. (2020) [Supporting designers: moving from method menagerie to method ecosystem](https://www.cambridge.org/core/journals/design-science/article/supporting-designers-moving-from-method-menagerie-to-method-ecosystem/63DA0F12D7C5AB2D94DDFBE40DD7E8ED)
  - Ureten, S. _et al_. (2020) [Current challenges and solution approaches in empirical engineering design research - A workshop for empirical research](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/current-challenges-and-solution-approaches-in-empirical-engineering-design-research-a-workshop-for-empirical-research/D19541606DDACCE6741D8F47E8B650B7)
