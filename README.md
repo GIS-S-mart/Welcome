@@ -143,6 +143,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [Ouvrir la science](https://www.ouvrirlascience.fr/)
   - [OpenAIRE Nexus project](https://www.openaire.eu/openaire-nexus-project)
   - [DoRANum](https://doranum.fr/)
+  - [Guide de bonnes pratiques sur la gestion des données de la recherche](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v2.pdf)
 * Open access repositories:
   - [Software Heritage](https://www.softwareheritage.org/)
   - [Archive Ouverte HAL](https://data.archives-ouvertes.fr/)
