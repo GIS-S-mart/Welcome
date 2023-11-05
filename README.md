@@ -159,11 +159,13 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [The landing gear case study: challenges and experiments](https://hal.science/hal-01851720/document)
   - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
 * Model-Based Systems Engineering:
+  * [DELLSAT-77 satellite system](https://ei194.infusionsoft.app/app/page/free-sysml-model?cookieUUID=1b4bc2ec-68a1-4215-bafe-1d6e877fe65f)
   * [Drug delivery autoinjector system](https://web.mst.edu/~cornss/incose/On-LineModel/DrugDeliveryModel22Feb2013.html)
   * [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA)
   * [GFSE Telescope](https://www.gfse.de/images/mbse/telescope/ape.html)
   * [Thirty Meter Telescope](https://github.com/Open-MBEE/TMT-SysML-Model)
   * [Harmony aMBSE Deskbook Models](https://wix.anyfileapp.net/dl?id=553246736447566b58312b37447a75486c35332f6e6c346c447a4e627a764b3070725259547138585835464e6936476951363866596c695a364743504639493045794c53614a516c534a705368774477414636702f773d3d)
+  * [Hubble space telescope system](https://github.com/DROUINRemy/hubble-capella-sample)
   * [Model-Based STPA](https://github.com/DLR-FT/ModelBasedSTPA)
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
