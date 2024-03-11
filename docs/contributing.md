@@ -57,7 +57,7 @@ Here are some resources to help you get started with open source contributions:
    - As you update your pull request and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
    - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
-## How start a discussion with organisation members?
+## How to start a discussion with organisation members?
 
 On the [team's page](https://github.com/GIS-S-mart/organization_team), you can use [team discussions](https://github.com/orgs/GIS-S-mart/discussions) for conversations that span across projects/repositories and don't belong to a specific issue or pull request. Instead of opening an issue in a repository to discuss an idea, you can include the entire organisation team by having a conversation in a team discussion.
 
