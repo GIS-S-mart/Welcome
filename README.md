@@ -61,16 +61,16 @@ This open science project has been born and developed to make a move for the ind
 
 - 20/05/2024 - 18th International Design Conference "*Operationalizing Community-Based Open Scientific Design Research Benchmarks: Application to Model-Based Architecture Design Synthesis*". [Slides]() [Paper]()
 
-- 04/04/2023 - Animation of the workshop *"Co-design of a community-based ecosystem to improve validation practices in engineering research”*, S.mart Special Interest Group in Industry 4.0. [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20230404%20-%20S.mart%202023.ppsx) 
-- 08/12/2022 - Benchmarking in design research workshop at the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20221208%20-%20Atelier%20bencharking%20V%26V%20(RP%2BLR)%20VF.ppsx) 
-- 21/06/2022 - Meeting of French academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems. [Lettre](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20220621%20-%20Lettre%20cadrage%20WG%20Smart-RIIS.pdf)
+- 04/04/2023 - Animation of the workshop *"Co-design of a community-based ecosystem to improve validation practices in engineering research”*, S.mart Special Interest Group in Industry 4.0. [Slides](./Papers/20230404%20-%20S.mart%202023.ppsx) 
+- 08/12/2022 - Benchmarking in design research workshop at the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](./Papers/20221208%20-%20Atelier%20bencharking%20V%26V%20(RP%2BLR)%20VF.ppsx) 
+- 21/06/2022 - Meeting of French academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems. [Lettre](./Papers/20220621%20-%20Lettre%20cadrage%20WG%20Smart-RIIS.pdf)
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
-- 31/03/2021 - Atelier S.mart "*Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route.*" [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
-- 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Slides.pdf) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210324-Webinar_smart_validation_framapad.pdf)
+- 31/03/2021 - Atelier S.mart "*Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route.*" [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](./Papers/20210331-Notes%20_Colloque_Smart.pdf)
+- 28/01/2021 - Webinar S.mart "Méthodologies de recherche sur l'industrie du futur: Pourquoi et Comment ? [Replay](https://videos.univ-grenoble-alpes.fr/video/21692-webinar-smart-validation-des-recherches-en-conception/) [Slides](./Papers/20210324-Slides.pdf) [Notes](./Papers/20210324-Webinar_smart_validation_framapad.pdf)
 
 ## Contribution Process
 
-_*Willing to be active with us? Follow the [contributing guide](https://github.com/GIS-S-mart/Welcome/blob/main/docs/contributing.md)!*_
+_*Willing to be active with us? Follow the [contributing guide](./Docs/contributing.md)!*_
 
 ## Code of Conduct
 
@@ -126,12 +126,13 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 </tbody>
 <tbody>
 <td><img src="Images/Benchmark6_MBDS_concepts.PNG"  width=300 /></td>
-<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding">Model-Based System Architecture Design Synthesis</a></h2></p>
+<td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding">Concept Finding in Model-Based Design Synthesis</a></h2></p>
 <p>Open benchmark exercises for comparing concept finding in a model-based design synthesis process for system sizing.</p>
 <p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding/issues"> Open Issues </a></p></td>
 </tbody>
 </table>
+
 
 
 
@@ -143,14 +144,16 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 
 _*These were the original creators of this project. Want to contact the Core Team? Send an e-mail to all of them!*_
 * Romain Pinquié - Univ. Grenoble Alpes, CNRS, Grenoble INP, G-SCOP - romain.pinquie@grenoble-inp.fr {Git ID: [rpinquie](https://github.com/rpinquie)}
-* Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr {Git ID: [jleduigo](https://github.com/jleduigo)}
 * Lionel Roucoules - Arts et Métiers ParisTech, LISPEN - lionel.roucoules@ensam.eu {Git ID: [roucoules](https://github.com/roucoules)}
 * Lou Grimal - Université de Technologie de Troyes, InSyTE, CREIDD - lou.grimal@utt.fr {Git ID: [LouGrimal](https://github.com/LouGrimal)}
+* Raphaël Chenouard -  École Centrale de Nantes, LS2N, France - raphael.chenouard@ls2n.fr {Git ID: [raphaelchenouard](https://github.com/raphaelchenouard)}
+* Pierre-Alain Yvars - ISAE-Supméca, Quartz, France - pierre-alain.yvars@isae-supmeca.fr 
 
 ## Other Participants
 
-_*This open-science repository is run by volunteers from the community. Want to be an active member of our community? Add your contact details to the list!*_
+Volunteers run this open-science repository. Below is a list of volunteers who have expressed an interest in this project. 
 
+* Julien Le Duigou - Université de Technologie de Compiègne, Roberval - julien.le-duigou@utc.fr {Git ID: [jleduigo](https://github.com/jleduigo)}
 * Nabil Anwer - ENS-Paris-Saclay, LURPA - nabil.anwer@lurpa.ens-cachan.fr
 * Matthieu Bricogne - Université de Technologie de Compiègne, Roberval - matthieu.bricogne@utc.fr
 * Alexis Lalevée - Université de Technologie de Troyes, ICD - alexis.lalevee@utt.fr
@@ -161,6 +164,8 @@ _*This open-science repository is run by volunteers from the community. Want to 
 * Nadège Troussier - Université de Technologie de Troyes, ICD - nadege.troussier@utt.fr
 * Esma Yahia - Arts et Métiers ParisTech, LISPEN - esma.yahia@ensam.eu
 * Gilles Foucault - Université Grenoble Alpes, G-SCOP - gilles.foucault@univ-grenoble-alpes.fr {Git ID: [gilles-foucault-univ](https://github.com/gilles-foucault-univ)}
+
+ If you want to be an active member of our community, open a new issue.
 
 ## Related Projects
 
