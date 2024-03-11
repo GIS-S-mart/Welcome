@@ -59,8 +59,10 @@ This open science project has been born and developed to make a move for the ind
 
 *What's new?*
 
+- 20/05/2024 - 18th International Design Conference "*Operationalizing Community-Based Open Scientific Design Research Benchmarks: Application to Model-Based Architecture Design Synthesis*". [Slides]() [Paper]()
+
 - 04/04/2023 - Animation of the workshop *"Co-design of a community-based ecosystem to improve validation practices in engineering research”*, S.mart Special Interest Group in Industry 4.0. [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20230404%20-%20S.mart%202023.ppsx) 
-- 08/12/2022 - Animation of two benchmarking workshops "*Architecture synthesis*" and "*Early V&V*" during the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20221208%20-%20Atelier%20bencharking%20V%26V%20(RP%2BLR)%20VF.ppsx) 
+- 08/12/2022 - Benchmarking in design research workshop at the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20221208%20-%20Atelier%20bencharking%20V%26V%20(RP%2BLR)%20VF.ppsx) 
 - 21/06/2022 - Meeting of French academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems. [Lettre](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20220621%20-%20Lettre%20cadrage%20WG%20Smart-RIIS.pdf)
 - 28/03/2022 - 32nd CIRP Design Conference "An Open Science Platform for Benchmarking Engineering Design Researches." [Slides](https://docs.google.com/presentation/d/18vPTcx-UZ0YA693My-BFH3r0QysgSu14A6MB5k_A1io/edit#slide=id.g119d74bd765_0_0) [Paper](https://reader.elsevier.com/reader/sd/pii/S2212827122007296?token=701B77CB1721C15BFFCB63DE273BB96BB4CCF394FCFCB04DB6002765981951A6D83601E4574B1B1EFB15A3F198155D74&originRegion=eu-west-1&originCreation=20221102174823)
 - 31/03/2021 - Atelier S.mart "*Validation de nos recherches en Génie Industriel : Co-Construction d'une Feuille de Route.*" [Dashboard](https://miro.com/app/board/o9J_lOfryN8=/) [Notes](https://github.com/GIS-S-mart/Welcome/blob/main/Papers/20210331-Notes%20_Colloque_Smart.pdf)
@@ -190,6 +192,7 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [AIR6110 Wheel brake system case study](https://es-static.fbk.eu/projects/air6110/)
 * Model-Based Systems Engineering:
   * [DELLSAT-77 satellite system](https://ei194.infusionsoft.app/app/page/free-sysml-model?cookieUUID=1b4bc2ec-68a1-4215-bafe-1d6e877fe65f)
+  * [Spacecraft system](http://sysml-models.com/)
   * [Drug delivery autoinjector system](https://web.mst.edu/~cornss/incose/On-LineModel/DrugDeliveryModel22Feb2013.html)
   * [Aircraft inspection and drone assistant system](https://sahara.irt-saintexupery.com/AIDA)
   * [GFSE Telescope](https://www.gfse.de/images/mbse/telescope/ape.html)
@@ -207,7 +210,8 @@ _*This open-science repository is run by volunteers from the community. Want to 
   - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
 * Data science public challenges:
   - [Kaggle](https://www.kaggle.com/competitions)
-  - [Challenge Data ENS](https://www.google.com/search?q=challenge+data+ens&oq=challenge+data+ens&aqs=chrome..69i57j69i65.2303j0j1&sourceid=chrome&ie=UTF-8) 
+  - [Codabench](https://www.codabench.org/)
+  - [Challenge Data ENS](https://challengedata.ens.fr/) 
   - [Hackatons](https://www.hackateam.com/fr/challenges)
 * Topological optimization:
   - [Aircraft wing design](https://data.dtu.dk/collections/TopWing_Data/5043437/1)
