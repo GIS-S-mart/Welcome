@@ -1,4 +1,4 @@
-# Benchmarks in Engineering Design Research 
+# Benchmarks in Design Research 
 
 We observe that design research has come very far after several decades of development. Nevertheless, there is still room for improvement. Such improvements must be well documented and fairly evaluated. Time is over for making claims like “results seem to be better than existing ones from the literature”. We are responsible for making quantitative judgments and fair comparisons to the state of the art.
 
@@ -10,7 +10,7 @@ This version-controlled and community-based open science platform is a collabora
 
 *The "What" and "Why" of Scientific Benchmarks are mostly extracts from the paper ''[Using benchmarking to advance research: a challenge to software engineering](https://10.1109/ICSE.2003.1201189)'' (Sim, 2003).*
 
-A scientific benchmark is a dataset or set of datasets composed of tests and metrics used to compare the performance of alternative tools or techniques. A benchmark operationalises a paradigm; it takes an abstract concept and makes it concrete, so it can serve as a guide for action. Indeed, within research communities, benchmarks are a statement of the discipline's research goals, and they emerge through a synergetic process of technical knowledge and social consensus proceeding in tandem. This community-based open science platform is concerned primarily with benchmarks created and used by a technical research community, especially the engineering design research community.
+A scientific benchmark is a dataset or set of datasets composed of tests and metrics used to compare the performance of alternative tools or techniques. A benchmark operationalises a paradigm; it takes an abstract concept and makes it concrete, so it can serve as a guide for action. Indeed, within research communities, benchmarks are a statement of the discipline's research goals, and they emerge through a synergetic process of technical knowledge and social consensus proceeding in tandem. This community-based open science platform is concerned primarily with benchmarks created and used by a technical research community, especially the design research community.
 
 Benchmarking has a strong positive effect on a discipline's scientific maturity. It helps whenever a research area needs to become more scientific, codify technical knowledge, or become more cohesive. Benchmarking, appropriately deployed, is not about winning a contest but more about surveying a landscape — the more we can reframe, contextualise, and appropriately scope the datasets, the more useful they will become as an informative dimension.
 
@@ -178,7 +178,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   - [OpenAIRE Nexus project](https://www.openaire.eu/openaire-nexus-project)
   - [DoRANum](https://doranum.fr/)
   - [Guide de bonnes pratiques sur la gestion des données de la recherche](https://mi-gt-donnees.pages.math.unistra.fr/guide/guide_bonnes_pratiques_gestion_donnees_recherche_v2.pdf)
-* Open access repositories:
+* Open data repositories:
   - [Software Heritage](https://www.softwareheritage.org/)
   - [Archive Ouverte HAL](https://data.archives-ouvertes.fr/)
   - [Zenodo](https://zenodo.org/)
@@ -205,6 +205,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
 * Artificial Intelligence applied to Engineering Design:
+  - [MIT Design Computation and Digital Engineering (DeCoDE) Lab](https://decode.mit.edu/)
   - [PHYRE A Benchmark For Physical Reasoning](https://phyre.ai/#tasks)
 * Computer science challenges:
   - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
