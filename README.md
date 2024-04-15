@@ -127,14 +127,14 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/issues"> Open Issues </a></p></td>
 </tbody>
 <tbody>
-<td><img src="Images/Benchmark6_MBDS_concepts.png"  width=300 /></td>
+<td><img src="Images/Benchmark6_MBDS_concepts.PNG"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding">Model-Based Architecture Design Synthesis</a></h2></p>
 <p>Open benchmark exercises for comparing concept finding in a model-based design synthesis process for system sizing.</p>
 <p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding/issues"> Open Issues </a></p></td>
 </tbody>
 <tbody>
-<td><img src="Images/Benchmark7_MBSE_data_transformation.PNG"  width=300 /></td>
+<td><img src="Images/Benchmark7_MBSE_data_transformation.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-8_MBSE_Model_transformation_inference">MBSE Model Transformation Inference</a></h2></p>
 <p>Open benchmark exercises to compare and study the performance of approaches for automatically inferring a transformation model.</p>
 <p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
