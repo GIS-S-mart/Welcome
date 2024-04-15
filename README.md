@@ -10,9 +10,11 @@ This version-controlled and community-based open science platform is a collabora
 
 *The "What" and "Why" of Scientific Benchmarks are mostly extracts from the paper ''[Using benchmarking to advance research: a challenge to software engineering](https://10.1109/ICSE.2003.1201189)'' (Sim, 2003).*
 
-A scientific benchmark is a dataset or set of datasets composed of tests and metrics used to compare the performance of alternative tools or techniques. A benchmark operationalises a paradigm; it takes an abstract concept and makes it concrete, so it can serve as a guide for action. Indeed, within research communities, benchmarks are a statement of the discipline's research goals, and they emerge through a synergetic process of technical knowledge and social consensus proceeding in tandem. This community-based open science platform is concerned primarily with benchmarks created and used by a technical research community, especially the design research community.
+Researchers commonly communicate their research results in papers. Often, a wide variety of research papers address the same research topic. It is becoming increasingly hard to compare research results by reading papers. Why? Because it is hard to compare results if the metrics, protocols, datasets and ground truth differ. Benchmarking in the form of organising challenges (the terminology for this differs per field, from *competitions*, *benchmarking*, *shared or common tasks*, etc.) is one way to address this. In this case, a benchmark is a standardised validation framework that allows for the direct comparison of different solutions that address the same research problem. Participants are invited to submit their solutions to a benchmark, after which their submissions are assessed using a predefined set of evaluation criteria.
 
-Benchmarking has a strong positive effect on a discipline's scientific maturity. It helps whenever a research area needs to become more scientific, codify technical knowledge, or become more cohesive. Benchmarking, appropriately deployed, is not about winning a contest but more about surveying a landscape — the more we can reframe, contextualise, and appropriately scope the datasets, the more useful they will become as an informative dimension.
+A scientific benchmark is more than a dataset or set of datasets composed of tests and metrics used to compare the performance of alternative tools or techniques. A benchmark operationalises a paradigm; it takes an abstract concept and makes it concrete so it can serve as a guide for action. Indeed, within research communities, benchmarks are a statement of the discipline's research goals, and they emerge through a synergetic process of technical knowledge and social consensus proceeding in tandem. This community-based open science platform is concerned primarily with benchmarks created and used by a technical research community, especially the design research community.
+
+Benchmarking has a strong positive effect on a discipline's scientific maturity. It helps whenever a research area needs to become more scientific, codify technical knowledge, or become more cohesive. Appropriately deployed benchmarking is not about winning a contest but more about surveying a landscape — the more we can reframe, contextualise, and appropriately scope the datasets, the more useful they will become as an informative dimension.
 
 Scientific benchmarks emerge through a process of scientific discovery and consensus. Both must progress together for a standard benchmark to emerge because neither alone is sufficient. The community of interest may include academia, industry, and government participants, but they are all primarily interested in scientific research. The benchmark should be specified at a high enough level of abstraction to ensure that it is portable to different tools or techniques and does not bias one technology in favour of others. Continued evolution of the benchmark is necessary to prevent researchers from making changes to optimise the performance of their contributions on a particular set of tests.
 
@@ -211,6 +213,8 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
   - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
   - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
+  - [Bencharmks for optimization software](https://plato.asu.edu/bench.html)
+  - [The official benchmark set of MIPLIB 2017](https://miplib.zib.de/tag_benchmark.html)
 * Data science public challenges:
   - [Kaggle](https://www.kaggle.com/competitions)
   - [Codabench](https://www.codabench.org/)
@@ -226,15 +230,25 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 * Model exchange:
   - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
   - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
+* Multimedia evaluation:
+  * [Multimedia Evaluation Benchmark](https://multimediaeval.github.io/)
+
+* Social science:
+  * [Fragile families challenge](https://www.fragilefamilieschallenge.org/)
+
 
 ## Related Papers
 
 *Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
-- Paehler, L. *et al* (2023) [Impact of Method Users on the Application of Design Methods—Assessing the Role of Method-related Background Knowledge.](https://doi.org/10.35199/dfx2023.06)
+
+- Eisenbart, B. *et al.* (2024) [Two decades apart and looking forward - exploring rigour in reporting on research in the engineering design research community](https://doi.org/10.1080/09544828.2024.2327912)
+- Paehler, L. *et al.* (2023) [Impact of Method Users on the Application of Design Methods—Assessing the Role of Method-related Background Knowledge.](https://doi.org/10.35199/dfx2023.06)
 - Escudero-Mancebo, D. *et al* (2023) [Research methods in engineering design : A synthesis of recent studies using a systematic literature review.](https://doi.org/10.1007/s00163-022-00406-y)
 - Gericke, K. _et al._ (2022) [Elements of a design method - a basis for describing and evaluating design methods](https://www.cambridge.org/core/journals/design-science/article/elements-of-a-design-method-a-basis-for-describing-and-evaluating-design-methods/A7387B643DBFDB5DF9075261D7D61408)
 - Sigmund, O. (2022) [On benchmarking and good scientific practise in topology optimization](https://link.springer.com/article/10.1007/s00158-022-03427-2)
 - Pinquié, R. _et al._ (2022) [An open science platform for benchmarking engineering design researches](https://www.sciencedirect.com/science/article/pii/S2212827122007296)
+- Prochner, I and Godin, D. (2022) [Quality in research through design projects: Recommendations for evaluation and enhancement]([https://doi.org/10.1016/j.destud.2021.101061](https://doi-org.sid2nomade-2.grenet.fr/10.1016/j.destud.2021.101061))
+- Ralph, P. *et al.* (2021) [Empirical standards for software engineering research](https://arxiv.org/abs/2010.03525)
 - Eisenmann, M. _et al._ (2021) [Design method validation – an investigation of the current practice in design research](https://www.tandfonline.com/doi/abs/10.1080/09544828.2021.1950655?journalCode=cjen20)
  - Hein, A. M. and Lamé, G. (2020) [Evaluating engineering design methods: taking inspiration from software engineering and the health sciences](https://hal.archives-ouvertes.fr/hal-02866692)
 - Gericke, K. et al. (2020) [Supporting designers: moving from method menagerie to method ecosystem](https://www.cambridge.org/core/journals/design-science/article/supporting-designers-moving-from-method-menagerie-to-method-ecosystem/63DA0F12D7C5AB2D94DDFBE40DD7E8ED)
