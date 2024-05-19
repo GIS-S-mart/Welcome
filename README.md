@@ -127,7 +127,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/issues"> Open Issues </a></p></td>
 </tbody>
 <tbody>
-<td><img src="Images/Benchmark6_MBDS_concepts.PNG"  width=300 /></td>
+<td><img src="Images/Benchmark6_MBDS_concepts.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding">Model-Based Architecture Design Synthesis</a></h2></p>
 <p>Open benchmark exercises for comparing concept finding in a model-based design synthesis process for system sizing.</p>
 <p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
@@ -137,7 +137,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <td><img src="Images/Benchmark7_MBSE_data_transformation.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-8_MBSE_Model_transformation_inference">MBSE Model Transformation Inference</a></h2></p>
 <p>Open benchmark exercises to compare and study the performance of approaches for automatically inferring a transformation model.</p>
-<p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
+<p><strong>Keywords</strong>: Model-Based Systems Engineering, Interoperability, Data Transformation, Inference</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-8_MBSE_Model_transformation_inference/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-8_MBSE_Model_transformation_inference/issues"> Open Issues </a></p></td>
 </tbody>
 </table>
@@ -212,6 +212,9 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   * [Harmony aMBSE Deskbook Models](https://wix.anyfileapp.net/dl?id=553246736447566b58312b37447a75486c35332f6e6c346c447a4e627a764b3070725259547138585835464e6936476951363866596c695a364743504639493045794c53614a516c534a705368774477414636702f773d3d)
   * [Hubble space telescope system](https://github.com/DROUINRemy/hubble-capella-sample)
   * [Model-Based STPA](https://github.com/DLR-FT/ModelBasedSTPA)
+* Multidisciplinary Design Optimisation:
+  * [Aircraft Jet Engine Architecting Benchmark Problem](https://elib.dlr.de/143455/1/AIAA%20AVIATION%202021%20Benchmark%20Problem.pdf) and its [dataset](https://zenodo.org/records/5011359)
+
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
 * Artificial Intelligence applied to Engineering Design:
