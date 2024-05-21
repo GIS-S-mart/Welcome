@@ -62,7 +62,6 @@ This open science project has been born and developed to make a move for the ind
 *What's new?*
 
 - 20/05/2024 - 18th International Design Conference "*Operationalizing Community-Based Open Scientific Design Research Benchmarks: Application to Model-Based Architecture Design Synthesis*". [Slides]() [Paper]()
-
 - 04/04/2023 - Animation of the workshop *"Co-design of a community-based ecosystem to improve validation practices in engineering research”*, S.mart Special Interest Group in Industry 4.0. [Slides](./Papers/20230404%20-%20S.mart%202023.ppsx) 
 - 08/12/2022 - Benchmarking in design research workshop at the Academia-Industry forum of the INCOSE French chapter (AFIS). [Slides](./Papers/20221208%20-%20Atelier%20bencharking%20V%26V%20(RP%2BLR)%20VF.ppsx) 
 - 21/06/2022 - Meeting of French academics whose research concentrates on systems engineering.  Part of the researchers decided to start two working groups so as to develop two benchmarks: 1) Model-based system architecture synthesis; 2) Early validation and verification of systems. [Lettre](./Papers/20220621%20-%20Lettre%20cadrage%20WG%20Smart-RIIS.pdf)
@@ -127,7 +126,7 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/discussions/new?category=announcements&welcome_text=true">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-6_model-based-design-reviews/issues"> Open Issues </a></p></td>
 </tbody>
 <tbody>
-<td><img src="Images/Benchmark6_MBDS_concepts.png"  width=300 /></td>
+<td><img src="Images/Benchmark6_MBDS_concepts.PNG"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-7_Design_synthesis-3_Concepts_finding">Model-Based Architecture Design Synthesis</a></h2></p>
 <p>Open benchmark exercises for comparing concept finding in a model-based design synthesis process for system sizing.</p>
 <p><strong>Keywords</strong>: Model-Based Design Synthesis, Concept Finding, System Sizing</p>
