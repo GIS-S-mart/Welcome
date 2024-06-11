@@ -265,11 +265,12 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
  - Ureten, S. _et al_. (2020) [Current challenges and solution approaches in empirical engineering design research - A workshop for empirical research](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/current-challenges-and-solution-approaches-in-empirical-engineering-design-research-a-workshop-for-empirical-research/D19541606DDACCE6741D8F47E8B650B7)
 - **Isaksson, O. _et al._ (2020) [You need to focus to validate](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/you-need-to-focus-to-validate/B8301671F8388D4EFED8D4EFE15500D4)**
 - Cross, N. (2018) [Developing design as a discipline](https://www.tandfonline.com/doi/abs/10.1080/09544828.2018.1537481?journalCode=cjen20)
-- Cash, P. (2018) [Developing theory-driven design research](https://www.sciencedirect.com/science/article/abs/pii/S0142694X18300140)
+- **Cash, P. (2018) [Developing theory-driven design research](https://www.sciencedirect.com/science/article/abs/pii/S0142694X18300140)**
 - Panchal, J. H. and Szajnfarber, Z. (2017) [Experiments in systems engineering and design research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sys.21415)
 - Vermaas, P. E. (2016) [A logical critique of the expert position in design research: beyond expert justification of design methods and towards empirical validation](https://www.cambridge.org/core/journals/design-science/article/logical-critique-of-the-expert-position-in-design-research-beyond-expert-justification-of-design-methods-and-towards-empirical-validation/E955288CB0F23034B61216D8FB0E7D57)
 - Vermaas, P. E. (2016) [Towards precedence that justifies the knowledge claims of design methods.](https://www.tandfonline.com/doi/full/10.1080/14606925.2016.1129144)
 - Vermaas, P. E. (2014) [Design theories, models and their testing: On the scientific status of design research](https://link.springer.com/chapter/10.1007/978-1-4471-6338-1_2)
+- McMahon, C. (2012) [Reflections on diversity in design research](https://www.tandfonline.com/doi/abs/10.1080/09544828.2012.676634)
 - Barth, A. _et al._ (2011) [How to validate research in engineering design?](https://www.designsociety.org/publication/30456/HOW+TO+VALIDATE+RESEARCH+IN+ENGINEERING+DESIGN%3F)
 - Blessing, L. and Chakrabarti, A. (2009) [DRM, a Design Research Methodology](https://www.springer.com/gp/book/9781848825864)
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
@@ -279,6 +280,10 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 - Pedersen, K. _et al._ (2000) [Validating design methods & research: the validation square.](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2000/35142/379/1093615)
 - Cantamessa, M. (2003) [An empirical perspective upon design research.](https://www.tandfonline.com/doi/abs/10.1080/0954482031000078126)
 - Hazelrigg, G. A. (2003) [Validation of engineering design alternative selection methods](https://www.tandfonline.com/doi/abs/10.1080/0305215031000097059)
+
+
+
+
 
 ## Disclaimer
 
