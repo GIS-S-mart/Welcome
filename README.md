@@ -251,6 +251,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 
 *Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
 
+- Pinquié, R. *et al.* (2024) [Operationalizing community-based open scientific design research benchmarks: application to model-based architecture design synthesis](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/operationalizing-communitybased-open-scientific-design-research-benchmarks-application-to-modelbased-architecture-design-synthesis/73855498E1E187C4BB4105C161F2CF0D).
 - Eisenbart, B. *et al.* (2024) [Two decades apart and looking forward - exploring rigour in reporting on research in the engineering design research community](https://doi.org/10.1080/09544828.2024.2327912)
 - Paehler, L. *et al.* (2023) [Impact of Method Users on the Application of Design Methods—Assessing the Role of Method-related Background Knowledge.](https://doi.org/10.35199/dfx2023.06)
 - Escudero-Mancebo, D. *et al* (2023) [Research methods in engineering design : A synthesis of recent studies using a systematic literature review.](https://doi.org/10.1007/s00163-022-00406-y)
@@ -274,16 +275,13 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 - Barth, A. _et al._ (2011) [How to validate research in engineering design?](https://www.designsociety.org/publication/30456/HOW+TO+VALIDATE+RESEARCH+IN+ENGINEERING+DESIGN%3F)
 - Blessing, L. and Chakrabarti, A. (2009) [DRM, a Design Research Methodology](https://www.springer.com/gp/book/9781848825864)
 - Frey, D. D. and Dym, C. L. (2006) [Validation of design methods: lessons from medicine](https://link.springer.com/article/10.1007/s00163-006-0016-4)
+- **Briggs, R. O. (2006) [On theory-driven design and deployment of collaboration systems](https://www.sciencedirect.com/science/article/abs/pii/S107158190600019X).**
 - **Seepersad, C. C. _et al._ (2006) [The validation square: How does one verify and validate a design method?](https://asmedigitalcollection.asme.org/ebooks/book/103/chapter-abstract/22576/The-Validation-Square-How-Does-One-Verify-and?redirectedFrom=fulltext)**
 - **Sim, S.E. *et al.* (2003) [Using benchmarking to advance research: a challenge to software engineering](https://10.1109/ICSE.2003.1201189)**
 - Eckert, C. M. _et al._ (2003) [The spiral of applied research: A methodological view on integrated design research](https://www.designsociety.org/publication/23944/THE+SPIRAL+OF+APPLIED+RESEARCH%3A+A+METHODOLOGICAL+VIEW+ON+INTEGRATED+DESIGN+RESEARCH)
 - Pedersen, K. _et al._ (2000) [Validating design methods & research: the validation square.](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2000/35142/379/1093615)
 - Cantamessa, M. (2003) [An empirical perspective upon design research.](https://www.tandfonline.com/doi/abs/10.1080/0954482031000078126)
 - Hazelrigg, G. A. (2003) [Validation of engineering design alternative selection methods](https://www.tandfonline.com/doi/abs/10.1080/0305215031000097059)
-
-
-
-
 
 ## Disclaimer
 
