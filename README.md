@@ -1,6 +1,6 @@
 # Benchmarks in Design Research 
 
-We observe that design research has come very far after several decades of development. Nevertheless, there is still room for improvement. Such improvements must be well documented and fairly evaluated. Time is over for making claims like “_results seem to be better than existing ones from the literature_”. We are responsible for making quantitative judgments and fair comparisons to the state of the art.
+Design research has come very far after several decades of development. Nevertheless, there is still room for improvement. Such improvements must be well documented and fairly evaluated. Time is over for making claims like “_results seem to be better than existing ones from the literature_”. We are responsible for making quantitative judgments and fair comparisons to the state of the art.
 
 We may think that the validation of design research is much more complicated than the validation of computer science research. Still, arguments such as " *we would need several years to get evidence*", "*our design situation is really special*", "*we cannot replicate the simulation results as we do not have the computing resources*" are no different from other disciplines. For instance, climate research, a discipline that requires more computing resources to solve research questions on highly complex situations and over a very long period, created the [Coupled Model Intercomparison Project 6 (CMIP6)](https://pcmdi.llnl.gov/CMIP6/), which has been internationally adopted as a shared infrastructure that serves as the provision of benchmarks against which to compare improvements in models and prediction quality. The same when researchers argue that "*the influence of designers' knowledge is too important to get comparable results*"; disciplines like Human-Computer Interaction are facing the same challenges but try to adopt the scientific method.
 
@@ -55,7 +55,7 @@ Publishing or making our data available to others is not considered standard pra
 
 *What does this project provide?*
 
-This open science project has been born and developed to make a move for the industrial engineering research community's progress.
+This open science project has been born and developed to make a move for the engineering design research community's progress.
 
 ## News
 
@@ -249,7 +249,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 
 ## Related Papers
 
-*Want to learn more about the validation in engineering research? Here is a list of sources to start with!*
+*Want to learn more about the validation in engineering design research? Here is a list of sources to start with!*
 
 - Pinquié, R. *et al.* (2024) [Operationalizing community-based open scientific design research benchmarks: application to model-based architecture design synthesis](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/operationalizing-communitybased-open-scientific-design-research-benchmarks-application-to-modelbased-architecture-design-synthesis/73855498E1E187C4BB4105C161F2CF0D).
 - Eisenbart, B. *et al.* (2024) [Two decades apart and looking forward - exploring rigour in reporting on research in the engineering design research community](https://doi.org/10.1080/09544828.2024.2327912)
@@ -265,6 +265,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 - Gericke, K. et al. (2020) [Supporting designers: moving from method menagerie to method ecosystem](https://www.cambridge.org/core/journals/design-science/article/supporting-designers-moving-from-method-menagerie-to-method-ecosystem/63DA0F12D7C5AB2D94DDFBE40DD7E8ED)
  - Ureten, S. _et al_. (2020) [Current challenges and solution approaches in empirical engineering design research - A workshop for empirical research](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/current-challenges-and-solution-approaches-in-empirical-engineering-design-research-a-workshop-for-empirical-research/D19541606DDACCE6741D8F47E8B650B7)
 - **Isaksson, O. _et al._ (2020) [You need to focus to validate](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/you-need-to-focus-to-validate/B8301671F8388D4EFED8D4EFE15500D4)**
+- Sileyew, K.J. (2019) [Research Design and Methodology](https://www.intechopen.com/chapters/68505)
 - Cross, N. (2018) [Developing design as a discipline](https://www.tandfonline.com/doi/abs/10.1080/09544828.2018.1537481?journalCode=cjen20)
 - **Cash, P. (2018) [Developing theory-driven design research](https://www.sciencedirect.com/science/article/abs/pii/S0142694X18300140)**
 - Panchal, J. H. and Szajnfarber, Z. (2017) [Experiments in systems engineering and design research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sys.21415)
