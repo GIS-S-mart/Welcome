@@ -213,6 +213,10 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   * [Model-Based STPA](https://github.com/DLR-FT/ModelBasedSTPA)
 * Multidisciplinary Design Optimisation:
   * [Aircraft Jet Engine Architecting Benchmark Problem](https://elib.dlr.de/143455/1/AIAA%20AVIATION%202021%20Benchmark%20Problem.pdf) and its [dataset](https://zenodo.org/records/5011359)
+* Operational Research:
+  * [Scheduling Zoo](http://schedulingzoo.lip6.fr/)
+  * [Benchmarks for basic scheduling problems](http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html)
+  * [Le challenge ROADEF](https://roadef.org/app/pages/le-challenge-roadef)
 
 * Additive Manufacturing:
   - [AM Bench 2022 Challenge Problems and Measurement Results](https://www.nist.gov/ambench/am-bench-2022-challenge-problems-and-measurement-results)
@@ -223,7 +227,7 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.eus/stswiki/index.php/Main_Page)
   - [ICLR Reproducibility Challenge](https://reproducibility-challenge.github.io/iclr_2019/)
   - [The EPFL Combinational Benchmark Suit](https://github.com/lsils/benchmarks)
-  - [Bencharmks for optimization software](https://plato.asu.edu/bench.html)
+  - [Benchmarks for optimization software](https://plato.asu.edu/bench.html)
   - [The official benchmark set of MIPLIB 2017](https://miplib.zib.de/tag_benchmark.html)
 * Data science public challenges:
   - [Kaggle](https://www.kaggle.com/competitions)
@@ -237,12 +241,17 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
   - [Princeton shape retrieval and analysis group](https://gfx.cs.princeton.edu/proj/shape/)
   - [Shape retrieval contest for CAD models](https://engineering.purdue.edu/PRECISE/shrec08)
   - [3D shape retrieval challenge](https://www.shrec.net/)
+* Optimization:
+  * [COCO: COmparing Continuous Optimizers](https://numbbo.github.io/coco/)
+  * [COCONUT benchmark for global optimization and constraint satisfaction](https://arnold-neumaier.at/glopt/coconut/benchmark.html)
+  * [CUTEst: Constrained and Unconstrained Testing Environment](https://github.com/ralna/CUTEst)
+  * [Benchopt benchmarks](https://benchopt.github.io/available_benchmarks.html#available-benchmarks)
+
 * Model exchange:
   - [OMG Model Interchange Wiki](https://www.omgwiki.org/model-interchange/doku.php)
   - [The NIST Validator](http://validator.omg.org/se-interop/tools/validator)
 * Multimedia evaluation:
   * [Multimedia Evaluation Benchmark](https://multimediaeval.github.io/)
-
 * Social science:
   * [Fragile families challenge](https://www.fragilefamilieschallenge.org/)
 
