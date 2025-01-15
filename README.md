@@ -142,8 +142,8 @@ The open science benchmarking environment contains a set of benchmarks that aim 
 <tbody>
 <td><img src="Images/Benchmark9_IMIC.png"  width=300 /></td>
 <td><p><h2><a href="https://github.com/GIS-S-mart/Benchmark-9-IMIC">Intelligent Manufacturing International Contest: IMIC</a></h2></p>
-<p>the Intelligent Manufacturing International Contest aims, each year, to propose a manufacturing problem submitted to the community in a form of a student/researcher academic competition.</p>
-<p><strong>Keywords</strong>: Model-Based Systems Engineering, Interoperability, Data Transformation, Inference</p>
+<p>The Intelligent Manufacturing International Contest aims, each year, to propose a manufacturing problem submitted to the community in a form of a student/researcher academic competition.</p>
+<p><strong>Keywords</strong>: Intelligent manufacturing, Manufacturing Control, International Contests</p>
 <p><strong><a href="https://github.com/GIS-S-mart/Benchmark-9-IMIC/discussions">Discussions </a> - <a href="https://github.com/GIS-S-mart/Benchmark-9-IMIC/issues"> Open Issues </a></p></td>
 </tbody>
 </table>
