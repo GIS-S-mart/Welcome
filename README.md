@@ -268,7 +268,8 @@ Volunteers run this open-science repository. Below is a list of volunteers who h
 
 *Want to learn more about the validation in engineering design research? Here is a list of sources to start with!*
 
-- Pinquié, R. *et al.* (2024) [Operationalizing community-based open scientific design research benchmarks: application to model-based architecture design synthesis](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/operationalizing-communitybased-open-scientific-design-research-benchmarks-application-to-modelbased-architecture-design-synthesis/73855498E1E187C4BB4105C161F2CF0D).
+- Larsen, K. *et al.* (2025) [Validity in design science](https://arxiv.org/abs/2503.09466)
+- Pinquié, R. *et al.* (2024) [Operationalizing community-based open scientific design research benchmarks: application to model-based architecture design synthesis](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/operationalizing-communitybased-open-scientific-design-research-benchmarks-application-to-modelbased-architecture-design-synthesis/73855498E1E187C4BB4105C161F2CF0D)
 - Eisenbart, B. *et al.* (2024) [Two decades apart and looking forward - exploring rigour in reporting on research in the engineering design research community](https://doi.org/10.1080/09544828.2024.2327912)
 - Paehler, L. *et al.* (2023) [Impact of Method Users on the Application of Design Methods—Assessing the Role of Method-related Background Knowledge.](https://doi.org/10.35199/dfx2023.06)
 - Escudero-Mancebo, D. *et al* (2023) [Research methods in engineering design : A synthesis of recent studies using a systematic literature review.](https://doi.org/10.1007/s00163-022-00406-y)
